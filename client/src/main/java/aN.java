@@ -1,4 +1,4 @@
-package defpackage;
+
 
 /* renamed from: aN  reason: default package */
 /* loaded from: hinterwars.jar:aN.class */

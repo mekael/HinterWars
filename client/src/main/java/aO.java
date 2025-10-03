@@ -1,4 +1,4 @@
-package defpackage;
+
 
 import java.awt.Component;
 import javax.swing.JLabel;

@@ -1,4 +1,4 @@
-package defpackage;
+
 
 /* renamed from: V  reason: default package */
 /* loaded from: hinterwars.jar:V.class */

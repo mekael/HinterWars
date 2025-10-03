@@ -1,4 +1,4 @@
-package defpackage;
+
 
 /* renamed from: s  reason: default package and case insensitive filesystem */
 /* loaded from: hinterwars.jar:s.class */

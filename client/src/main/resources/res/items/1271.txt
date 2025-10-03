@@ -1,0 +1,14 @@
+11
+Chipped Ring of health
+Ring
+0
+Misc|\N
+Ring1
+1
+7
+0
+0
+0
+HP: 3
+2
+All races

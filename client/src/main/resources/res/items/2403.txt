@@ -1,0 +1,14 @@
+126
+Kaze's Sheath
+Boots
+0
+Armor|\N
+Leg
+5
+41
+0
+0
+0
+Defence: 8; Energy: 12; AP: 1 (S)
+2
+Firan

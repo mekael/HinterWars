@@ -1,0 +1,14 @@
+7
+Topaz Necklace
+Necklace
+0
+Misc|\N
+Neck
+1
+47
+0
+0
+0
+Accuracy: 8
+2
+All races

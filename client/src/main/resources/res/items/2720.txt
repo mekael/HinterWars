@@ -1,0 +1,14 @@
+154
+Precise Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+46
+0
+0
+0
+ACC +30
+2
+Firan

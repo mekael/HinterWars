@@ -1,0 +1,14 @@
+126
+Jiang Shi Tail-Pants
+Boots
+0
+Armor|\N
+Leg
+4
+31
+0
+0
+0
+Defence: 5; Energy: 10 (S)
+2
+Firan

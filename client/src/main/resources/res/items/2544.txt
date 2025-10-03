@@ -1,0 +1,14 @@
+94
+Commando's Resin Boots
+Boots
+0
+Armor|\N
+Leg
+15
+47
+0
+0
+0
+Defence: 9; AP: 2 (S)
+2
+Human

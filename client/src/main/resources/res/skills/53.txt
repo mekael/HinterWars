@@ -1,0 +1,15 @@
+Multi Strikes
+1
+A|DMG|0|15 i -|KNIFE|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|KNIFE|OM|N|EQ 1 1|Y|ALL|&
+-1
+1
+19
+Does AOE damage to targets around user
+20
+Close Combat
+14
+1
+0
+5
+3
+3

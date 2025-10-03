@@ -1,0 +1,14 @@
+10
+Perfect Necklace of Life
+Necklace
+0
+Misc|\N
+Neck
+1
+54
+0
+0
+0
+HP: 38 (N+)
+2
+All races

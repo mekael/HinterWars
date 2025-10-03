@@ -1,0 +1,14 @@
+156
+Deer's Paw
+Bangle
+0
+Misc|\N
+Bangle
+1
+51
+0
+0
+0
+Damage: -3; Action Points: 3 (S)
+2
+All races

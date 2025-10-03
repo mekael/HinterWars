@@ -1,0 +1,15 @@
+Concentrate
+1
+P|DMG|-1|3|ANY|SF|N|EQ 1 1|N|ALL|&
+0
+3
+21
+Increases the damage power of user
+26
+Warrior Crafts
+0
+0
+0
+7
+9
+0

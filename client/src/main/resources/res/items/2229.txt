@@ -1,0 +1,14 @@
+84
+Shoes of the Soil
+Boots
+0
+Armor|\N
+Leg
+7
+4
+0
+0
+0
+Defence: 1 (S)
+2
+Brucian

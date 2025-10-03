@@ -1,0 +1,15 @@
+Distraction
+1
+A|ACC|4|0 8 -|STAFF|OM|N|EQ 1 1|N|ALL|&
+4
+2
+21
+Lower all foes' accuracy within targeted area for a limited time
+65
+Combat Magic
+16
+2
+0
+7
+3
+1

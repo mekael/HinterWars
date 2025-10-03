@@ -1,0 +1,15 @@
+Knife Mastery
+1
+P|ACC|-1|4|KNIFE|SF|N|EQ 1 1|N|ALL|&
+0
+1
+4
+Added accuracy for attacks using knives
+19
+Close Combat
+0
+0
+0
+3
+9
+-1

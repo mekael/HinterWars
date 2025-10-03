@@ -1,0 +1,51 @@
+1=	Some Weird Dude
+2=	Yellow hair guy
+3=	Deputy Ken
+4=	Dr Dorian
+5=	Erica
+6=	Mckayla
+7=	Sergeant Vince
+
+8=	cebelon
+9=	ebneth
+10=	masterquilon
+11=	tynen
+
+12=	Capt Schenmar
+13=	Scholom
+14=	Sshalyne
+15=	Sshlyna
+
+16=	Calen
+17=	Gallen
+18=	Haden
+19=	Shama
+
+20=	Brucian Farmer 1
+21=	Brucian Farmer 2
+22=	Brucian Hunter 1
+23=	Brucian Hunter 2
+24=	Brucian Generic 1
+25=	Brucian Generic 2
+
+26=	Firan Farmer 1
+27=	Firan Farmer 2
+28=	Firan Hunter 1
+29=	Firan Hunter 2
+30=	Firan Generic 1
+31=	Firan Generic 2
+
+32=	Human Tailor 1
+33=	Human Tailor 2
+34=	Human Travelling Merchant 1
+35=	Human Travelling Merchant 2
+
+36=	Taikuus Alchemist 1
+37=	Taikuus Alchemist 2
+38=	Taikuus Merchant 1
+39=	Taikuus Merchant 2
+40=	Taikuus Generic 1
+41=	Taikuus Generic 2
+
+42=	Cloaked NPC 1
+43=	Cloaked NPC 2

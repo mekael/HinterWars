@@ -1,0 +1,14 @@
+135
+Ninja's Gold Bracers
+Gloves
+0
+Armor|\N
+Gloves
+3
+51
+0
+0
+0
+Defence: 7; Damage: 10 (S)
+2
+Firan

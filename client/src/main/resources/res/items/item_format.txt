@@ -1,0 +1,14 @@
+graphic id
+itemName
+itemType
+range(tiles)
+itemClass(weapon, armor, misc, item)
+bodySlot(head, neck, torso, ring, glove, hand, legs)
+inv_slot(space taken up in inventory)
+required level
+required energy
+accuracy
+itemArea(tiles - affected area)
+description
+target
+race restriction

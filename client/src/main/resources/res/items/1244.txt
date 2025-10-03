@@ -1,0 +1,14 @@
+3
+Burned Fir Charm
+Charm
+0
+Misc|\N
+Amulet
+1
+14
+0
+0
+0
+Accuracy: 4
+2
+All races

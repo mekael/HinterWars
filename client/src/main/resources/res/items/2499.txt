@@ -1,0 +1,14 @@
+90
+Leather Sneakers
+Boots
+0
+Armor|\N
+Leg
+12
+34
+0
+0
+0
+Defence: 6; AP: 2 (N+)
+2
+Human

@@ -1,0 +1,14 @@
+156
+Cursed Bangle of Rhenium
+Bangle
+0
+Misc|\N
+Bangle
+1
+27
+0
+0
+0
+Energy: 8; Accuracy: -4;  (S)
+2
+All races

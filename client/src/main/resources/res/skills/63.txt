@@ -1,0 +1,15 @@
+Unwavering
+2
+A|DMG|0|120 i -|KNIFE|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|KNIFE|OM|N|EQ 1 1|Y|MAG|&
+-1
+1
+50
+Deals high damage to magical foe
+23
+Close Combat & Origins Specific Skills
+24
+1
+0
+10
+1
+3

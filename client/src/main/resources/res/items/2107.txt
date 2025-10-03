@@ -1,0 +1,14 @@
+10
+Necklace of Greater Mist
+Necklace
+0
+Misc|\N
+Neck
+1
+31
+0
+0
+0
+Energy: 5 (N+)
+2
+All races

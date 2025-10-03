@@ -1,0 +1,14 @@
+14
+Dragon's Ring of Vigour
+Ring
+0
+Misc|\N
+Ring1
+1
+37
+0
+0
+0
+HP: 25; Armour: 3 (S)
+2
+All races

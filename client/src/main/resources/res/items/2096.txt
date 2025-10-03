@@ -1,0 +1,14 @@
+12
+Witch Craft
+Charm
+0
+Misc|\N
+Amulet
+1
+51
+0
+0
+0
+Energy: 55; Accuracy: -10 (S)
+2
+All races

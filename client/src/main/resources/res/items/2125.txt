@@ -1,0 +1,14 @@
+8
+Ring for the Blind
+Ring
+0
+Misc|\N
+Ring1
+1
+31
+0
+0
+0
+Accuracy: 7
+2
+All races

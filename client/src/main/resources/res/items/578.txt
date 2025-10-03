@@ -1,0 +1,14 @@
+6
+Charm of Health
+Charm
+0
+Misc|null
+Amulet
+0
+8
+0
+0
+0
+HP +4
+2
+All races

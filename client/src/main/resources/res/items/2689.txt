@@ -1,0 +1,14 @@
+110
+Warlock's Stockings
+Boots
+0
+Armor|\N
+Leg
+10
+37
+0
+0
+0
+Defence: 5; AP: 3 (S)
+2
+Taikuus

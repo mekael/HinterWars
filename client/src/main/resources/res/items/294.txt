@@ -1,0 +1,14 @@
+84
+Light Reinforced Barksilk Boots
+Boots
+0
+Armor|null
+Leg
+0
+6
+0
+0
+0
+HP +2
+2
+Brucian

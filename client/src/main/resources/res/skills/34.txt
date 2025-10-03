@@ -1,0 +1,15 @@
+Snipe Shot
+1
+A|ACC|0|20|GUN|SF|N|EQ 1 1|N|ALL|&A|DMG|0|7|GUN|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|GUN|OM|N|EQ 1 1|Y|ALL|&
+6
+1
+13
+Longer range and does more damage then a Power Shot
+13
+Gunnery
+5
+0
+0
+5
+1
+3

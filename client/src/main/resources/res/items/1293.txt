@@ -1,0 +1,14 @@
+54
+Tattered Sharp Shoes
+Boots
+0
+Armor|\N
+Leg
+4
+4
+0
+0
+0
+Defence: 0; Accuracy: 1 (N+)
+2
+Human

@@ -1,0 +1,14 @@
+10
+Refined Garnet Necklace
+Necklace
+0
+Misc|\N
+Neck
+1
+44
+0
+0
+0
+HP: 26 (N+)
+2
+All races

@@ -1,0 +1,1 @@
+Unzip anywhere but the steam folder, and run the exe.

@@ -1,0 +1,14 @@
+11
+Pure Ring of the Moon
+Ring
+0
+Misc|\N
+Ring1
+1
+54
+0
+0
+0
+Energy: 11 (N+)
+2
+All races

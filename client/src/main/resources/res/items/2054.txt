@@ -1,0 +1,14 @@
+155
+Grand Bangle of Tides
+Bangle
+0
+Misc|\N
+Bangle
+1
+34
+0
+0
+0
+HP: 7; Energy: 4 (N+)
+2
+All races

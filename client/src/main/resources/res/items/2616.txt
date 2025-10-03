@@ -1,0 +1,14 @@
+64
+Apprentice's Leggings
+Boots
+0
+Armor|\N
+Leg
+4
+4
+0
+0
+0
+Defence: 1; Energy: 4 (S)
+2
+Taikuus

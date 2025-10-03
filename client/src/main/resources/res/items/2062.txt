@@ -1,0 +1,14 @@
+156
+Oak Bangle of Speed
+Bangle
+0
+Misc|\N
+Bangle
+1
+17
+0
+0
+0
+Damage: 2; Action Points: 1;  (S)
+2
+All races

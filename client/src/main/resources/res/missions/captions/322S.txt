@@ -1,0 +1,2 @@
+Kill any suspicious characters that you might encounter.
+

@@ -1,0 +1,14 @@
+10
+Charred Mahogany Necklace
+Necklace
+0
+Misc|\N
+Neck
+1
+14
+0
+0
+0
+HP: 4
+2
+All races

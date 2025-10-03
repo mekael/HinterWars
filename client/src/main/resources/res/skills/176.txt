@@ -1,0 +1,15 @@
+Hallucination
+2
+A|ACC|4|0 12 -|STAFF|OM|N|EQ 1 1|N|ALL|&
+4
+2
+36
+Lowers target's accuracy for a period of time
+66
+Combat Magic
+15
+0
+0
+8
+1
+1

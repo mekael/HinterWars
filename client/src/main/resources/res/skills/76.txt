@@ -1,0 +1,15 @@
+Focus
+2
+A|ACC|4|4|ANY|SF|N|EQ 1 1|N|ALL|&
+0
+3
+42
+Increase accuracy of user for a limited time
+29
+Warrior Crafts
+5
+0
+1
+10
+9
+0

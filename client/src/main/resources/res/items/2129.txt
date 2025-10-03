@@ -1,0 +1,14 @@
+8
+Moonstone Ring
+Ring
+0
+Misc|\N
+Ring1
+1
+44
+0
+0
+0
+Energy: 7
+2
+All races

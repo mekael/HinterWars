@@ -1,0 +1,12 @@
+1=res/missions/Maps/Lab/Map_Lab_Full.png
+2=res/missions/Maps/Cave/Map_Cave_Full.png
+3=res/missions/Maps/Desert/Map_Desert_full.png
+4=res/missions/Maps/Desert/Map_Desert_full.png
+5=res/missions/Maps/Jungle/Map_Jungle_Full.png
+6=res/missions/Maps/Rocky/Map_Rocky_Full.png
+7=res/missions/Maps/Grassy/Map_Grassy_Full.png
+8=res/missions/Maps/Highlands/Map_Highlands_Full.png
+9=res/missions/Maps/Dreamy/Map_Dreamy_Full.png
+10=res/missions/Maps/Forest/Map_Forest_Full.png
+11=res/missions/Maps/Junkyard/Map_Junkyard_Full.png
+12=res/missions/Maps/Junkyard/Map_Ghosttown_Full.png

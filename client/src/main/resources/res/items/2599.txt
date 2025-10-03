@@ -1,0 +1,14 @@
+118
+Heldin Boots
+Boots
+0
+Armor|\N
+Leg
+14
+56
+0
+0
+0
+Defence: 7; Energy: 10; AP: 5 (U+)
+2
+Taikuus

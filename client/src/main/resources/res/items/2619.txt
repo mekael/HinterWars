@@ -1,0 +1,14 @@
+64
+Genie's Leggings
+Boots
+0
+Armor|\N
+Leg
+6
+17
+0
+0
+0
+Defence: 2; Damage: 1; AP: 1 (S)
+2
+Taikuus

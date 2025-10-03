@@ -1,0 +1,14 @@
+156
+Bangle of Weird Vibes
+Bangle
+0
+Misc|\N
+Bangle
+1
+21
+0
+0
+0
+HP: 50; Energy: 25; Action Points: -3;  (S)
+2
+All races

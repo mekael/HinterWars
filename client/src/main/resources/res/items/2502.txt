@@ -1,0 +1,14 @@
+90
+Hand-Sewed Boots
+Boots
+0
+Armor|\N
+Leg
+11
+31
+0
+0
+0
+Defence: 5
+2
+Human

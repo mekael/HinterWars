@@ -1,0 +1,14 @@
+143
+Gauntlet of Rainbow
+Gloves
+0
+Armor|\N
+Gloves
+11
+37
+0
+0
+0
+Defence: 4; Accuracy: 22 (S)
+2
+Brucian

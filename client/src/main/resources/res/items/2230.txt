@@ -1,0 +1,14 @@
+84
+Shoes of the Earth
+Boots
+0
+Armor|\N
+Leg
+8
+7
+0
+0
+0
+Defence: 1; Damage: 1 (S)
+2
+Brucian

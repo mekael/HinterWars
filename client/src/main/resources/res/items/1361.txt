@@ -1,0 +1,14 @@
+74
+Tattered Sharp Shoes
+Boots
+0
+Armor|\N
+Leg
+2
+4
+0
+0
+0
+Defence: 0; Accuracy: 1 (N+)
+2
+Firan

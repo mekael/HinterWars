@@ -1,0 +1,14 @@
+111
+Magi's Silk Mittens
+Gloves
+0
+Armor|\N
+Gloves
+6
+47
+0
+0
+0
+Defence: 4; Damage: 8; Accuracy: 10 (S)
+2
+Taikuus

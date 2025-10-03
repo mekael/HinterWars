@@ -1,0 +1,14 @@
+65
+Triple Stitched Gloves
+Gloves
+0
+Armor|null
+Gloves
+1
+8
+0
+0
+0
+Defence +2
+2
+Taikuus

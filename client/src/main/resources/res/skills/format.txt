@@ -1,0 +1,15 @@
+skill_name
+skill_level
+effect
+skill_range
+race_id
+require_level
+description
+graphic_id
+skill_type
+require_energy
+skill_area
+flag
+require_sp
+target
+anime_id

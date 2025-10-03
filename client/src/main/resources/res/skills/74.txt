@@ -1,0 +1,15 @@
+Evade
+3
+A|DEF|4|20|ANY|SF|N|EQ 1 1|N|ALL|&
+0
+3
+55
+Increases defense of user for a limited time
+28
+Warrior Crafts
+8
+0
+1
+11
+9
+0

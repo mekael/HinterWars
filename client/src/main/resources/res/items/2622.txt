@@ -1,0 +1,14 @@
+64
+Plaid Boots
+Boots
+0
+Armor|\N
+Leg
+6
+18
+0
+0
+0
+Defence: 2; HP: 4; AP: 1 (U+)
+2
+Taikuus

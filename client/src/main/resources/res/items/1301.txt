@@ -1,0 +1,14 @@
+54
+Scorched Ravage Shoes
+Boots
+0
+Armor|\N
+Leg
+5
+7
+0
+0
+0
+Defence: 1; Damage: 1 (N+)
+2
+Human

@@ -1,0 +1,15 @@
+Electrical Field
+3
+A|HP|0|0 81 -|STAFF|OM|N|EQ 1 1|N|MEC|&
+4
+2
+59
+Deals high damages to mechanical foes within targeted area
+61
+Combat Magic & Origin Specific Skills
+30
+2
+1
+11
+3
+2

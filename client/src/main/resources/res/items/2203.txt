@@ -1,0 +1,14 @@
+150
+Slippers of Nature
+Boots
+0
+Armor|\N
+Leg
+32
+57
+0
+0
+0
+Defence: 17; HP: 5; AP: 4 (S)
+2
+Brucian

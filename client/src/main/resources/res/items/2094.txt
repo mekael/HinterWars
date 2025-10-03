@@ -1,0 +1,14 @@
+3
+Flirex's Boatswain's Call
+Charm
+0
+Misc|\N
+Amulet
+1
+41
+0
+0
+0
+HP: 2; Energy: 30 (S)
+2
+All races

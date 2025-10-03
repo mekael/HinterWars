@@ -1,0 +1,14 @@
+12
+Cursed Charm of Rhenium
+Charm
+0
+Misc|\N
+Amulet
+1
+27
+0
+0
+0
+Damage: -2; Energy: 8;  (S)
+2
+All races

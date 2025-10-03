@@ -1,0 +1,14 @@
+13
+Necklace of Mercury
+Necklace
+0
+Misc|\N
+Neck
+1
+24
+0
+0
+0
+HP: 12 (N+)
+2
+All races

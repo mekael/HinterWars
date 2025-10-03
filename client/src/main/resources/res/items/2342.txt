@@ -1,0 +1,14 @@
+75
+Feiz Gloves
+Gloves
+0
+Armor|\N
+Gloves
+2
+17
+0
+0
+0
+Defence: 1 (U+)
+2
+Firan

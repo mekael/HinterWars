@@ -1,0 +1,14 @@
+98
+Flawless Resin Boots
+Boots
+0
+Armor|\N
+Leg
+18
+57
+0
+0
+0
+Defence: 11
+2
+Human

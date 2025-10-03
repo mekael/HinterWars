@@ -1,0 +1,14 @@
+61
+Brocade Gloves
+Gloves
+0
+Armor|null
+Gloves
+1
+8
+0
+0
+0
+Defence +1
+2
+Taikuus

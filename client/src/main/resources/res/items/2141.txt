@@ -1,0 +1,14 @@
+14
+Ring of True Sight
+Ring
+0
+Misc|\N
+Ring1
+1
+7
+0
+0
+0
+Accuracy: 4;  (S)
+2
+All races

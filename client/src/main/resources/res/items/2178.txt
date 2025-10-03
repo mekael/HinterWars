@@ -1,0 +1,14 @@
+147
+Normal Iron Gloves
+Gloves
+0
+Armor|\N
+Gloves
+14
+47
+0
+0
+0
+Defence: 7
+2
+Brucian

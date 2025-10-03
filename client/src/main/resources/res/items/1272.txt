@@ -1,0 +1,14 @@
+5
+Charred Oak Ring
+Ring
+0
+Misc|\N
+Ring1
+1
+11
+0
+0
+0
+Damage: 1
+2
+All races

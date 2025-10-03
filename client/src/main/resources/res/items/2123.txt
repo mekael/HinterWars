@@ -1,0 +1,14 @@
+13
+Eagle's Eyes
+Necklace
+0
+Misc|\N
+Neck
+1
+51
+0
+0
+0
+HP: -25; Energy: -12; Accuracy: 30 (S)
+2
+All races

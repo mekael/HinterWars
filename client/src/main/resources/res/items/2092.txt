@@ -1,0 +1,14 @@
+12
+Mids Charm of Eyes
+Charm
+0
+Misc|\N
+Amulet
+1
+31
+0
+0
+0
+Accuracy: 16 (S)
+2
+All races

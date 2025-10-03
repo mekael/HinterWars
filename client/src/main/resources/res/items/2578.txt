@@ -1,0 +1,14 @@
+114
+Socks of the Wind
+Boots
+0
+Armor|\N
+Leg
+14
+54
+0
+0
+0
+Defence: 7; AP: 3 (N+)
+2
+Taikuus

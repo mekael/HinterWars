@@ -1,0 +1,14 @@
+6
+Charm for the Blind
+Charm
+0
+Misc|\N
+Amulet
+1
+34
+0
+0
+0
+Accuracy: 7
+2
+All races

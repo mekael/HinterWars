@@ -1,0 +1,14 @@
+50
+Fastened Boots
+Boots
+0
+Armor|\N
+Leg
+9
+24
+0
+0
+0
+Defence: 3
+2
+Human

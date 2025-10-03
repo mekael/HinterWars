@@ -1,0 +1,14 @@
+1
+Test Uber Gun
+Gun
+4
+Weapon
+Hand
+1
+1
+0
+12
+0
+Uber test gun
+1
+Human

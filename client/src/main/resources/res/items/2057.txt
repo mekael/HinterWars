@@ -1,0 +1,14 @@
+155
+Pure Rainbow Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+51
+0
+0
+0
+HP: 12; Energy: 8 (N+)
+2
+All races

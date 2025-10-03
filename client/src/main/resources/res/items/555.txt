@@ -1,0 +1,14 @@
+8
+Small Ring of Health
+Ring
+0
+Misc|null
+Ring1
+0
+6
+0
+0
+0
+HP +2
+2
+All races

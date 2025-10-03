@@ -1,0 +1,15 @@
+Frag Grenade
+3
+A|DMG|0|70 i -|GUN|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|GUN|OT|N|EQ 1 1|Y|ALL|&
+4
+1
+53
+Does damage to foes and party within targeted area
+7
+Gunnery
+23
+1
+1
+11
+7
+3

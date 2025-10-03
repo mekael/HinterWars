@@ -1,0 +1,15 @@
+Puncture
+3
+A|HP|4|0 15 -|CLAW|OM|N|EQ 1 1|N|ALL|&
+-1
+4
+49
+Deals damages over time
+79
+Claws Training
+48
+0
+1
+10
+1
+3

@@ -1,0 +1,14 @@
+9
+Charm of Badger
+Charm
+0
+Misc|null
+Amulet
+0
+8
+0
+0
+0
+Accuracy +1;HP +2
+2
+All races

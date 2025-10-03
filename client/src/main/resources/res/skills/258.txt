@@ -1,0 +1,15 @@
+Flare Of Spear
+1
+A|HP|10|0 100 -|KNIFE|AM|N|EQ 1 1|N|ALL|&A|EN|10|0 2000 -|KNIFE|AM|N|EQ 1 1|N|ALL|&A|AP|10|0 1000 -|KNIFE|AM|N|EQ 1 1|N|ALL|&A|HP|0|0 9999 -|GUN|AM|N|EQ 1 1|N|ALL|&A|EN|0|1000|ANY|SF|N|EQ 1 1|N|ALL|&
+0
+1
+100
+Ultimate fire skill.
+4
+Ultimate Skills
+500
+0
+1
+10
+5
+2

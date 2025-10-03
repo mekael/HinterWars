@@ -1,0 +1,15 @@
+Focused Mind
+1
+A|ACC|3|12|BOOK|OC|N|EQ 1 1|N|ALL|&
+4
+2
+22
+Raises accuracy of party members within targeted area  for a short period of time
+53
+Support Magic
+12
+2
+0
+7
+4
+0

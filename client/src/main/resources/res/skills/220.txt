@@ -1,0 +1,15 @@
+Shocking Whirl
+2
+A|DMG|0|20|CLAW|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|CLAW|OM|N|EQ 1 1|Y|MEC|&
+-1
+4
+39
+Deals large damage to all mechanical foes around user
+81
+Claws Training & Origin Specific Skills
+5
+1
+0
+8
+3
+2

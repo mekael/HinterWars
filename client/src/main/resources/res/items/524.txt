@@ -1,0 +1,14 @@
+60
+Cloth Boots
+Boots
+0
+Armor|null
+Leg
+1
+6
+0
+0
+0
+HP +2
+2
+Taikuus

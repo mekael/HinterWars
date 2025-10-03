@@ -1,0 +1,14 @@
+7
+Light Necklace of energy
+Necklace
+0
+Misc|\N
+Neck
+1
+1
+0
+0
+0
+Energy: 2 (N+)
+2
+All races

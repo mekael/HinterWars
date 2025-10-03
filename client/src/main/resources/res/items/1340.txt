@@ -1,0 +1,14 @@
+55
+Firm Wristband of Ruin
+Gloves
+0
+Armor|\N
+Gloves
+5
+24
+0
+0
+0
+Defence: 2; Damage: 4; Accuracy: 4 (N+)
+2
+Human

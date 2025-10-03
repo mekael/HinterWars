@@ -1,0 +1,15 @@
+Scorch
+1
+A|HP|2|0 5 -|STAFF|OM|N|EQ 1 1|N|ALL|&
+4
+2
+11
+Does damage over time
+68
+Combat Magic
+3
+0
+0
+5
+1
+2

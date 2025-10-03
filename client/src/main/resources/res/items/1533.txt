@@ -1,0 +1,14 @@
+80
+Old Sandals
+Boots
+0
+Armor|\N
+Leg
+15
+21
+0
+0
+0
+Defence: 2
+2
+Brucian

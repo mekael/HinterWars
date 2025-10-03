@@ -1,0 +1,14 @@
+154
+Cracked Pearl Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+41
+0
+0
+0
+HP: 7; Energy: 4
+2
+All races

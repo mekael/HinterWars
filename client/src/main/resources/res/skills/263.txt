@@ -1,0 +1,15 @@
+Place Holder 2
+1
+A|HP|0|0|ANY|OT|N|EQ 1 1|Y|ALL|
+1
+5
+1
+Place holder for future skills to fix bugs if needed.
+92
+Common
+0
+0
+1
+0
+1
+-1

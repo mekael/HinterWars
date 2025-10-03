@@ -1,0 +1,14 @@
+3
+Charm of Protection
+Charm
+0
+Misc|null
+Amulet
+0
+9
+0
+0
+0
+Defence +2
+2
+All races

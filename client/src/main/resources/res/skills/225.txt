@@ -1,0 +1,15 @@
+Crippling Blow
+1
+A|DMG|0|5 i -|KNUCKLES|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|KNUCKLES|OM|N|EQ 1 1|Y|ALL|&A|AP|5|0 3 -|KNUCKLES|OM|N|EQ 1 1|N|ALL|&
+1
+4
+14
+Deals minor damage and reduces target's AP for a limited time
+83
+Knuckles Training
+2
+0
+0
+5
+1
+3

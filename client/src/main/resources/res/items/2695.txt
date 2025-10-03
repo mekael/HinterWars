@@ -1,0 +1,14 @@
+110
+Suutor Boots
+Boots
+0
+Armor|\N
+Leg
+12
+47
+0
+0
+0
+Defence: 6; AP: 4; Accuracy: 10 (U+)
+2
+Taikuus

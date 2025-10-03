@@ -1,0 +1,14 @@
+13
+The Blessed Necklace
+Necklace
+0
+Misc|\N
+Neck
+1
+4
+0
+0
+0
+HP: 20; Energy: -5;  (S)
+2
+All races

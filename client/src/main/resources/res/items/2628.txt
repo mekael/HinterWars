@@ -1,0 +1,14 @@
+65
+Witch's Mittens
+Gloves
+0
+Armor|\N
+Gloves
+4
+21
+0
+0
+0
+Defence: 2; Accuracy: 14 (S)
+2
+Taikuus

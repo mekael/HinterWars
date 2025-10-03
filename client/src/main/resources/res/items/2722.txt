@@ -1,0 +1,14 @@
+154
+Adept Bangle
+Bangle
+0
+Misc|\N
+Bangle
+3
+50
+0
+0
+0
+ACC +40
+2
+Firan

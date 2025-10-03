@@ -1,0 +1,14 @@
+68
+Double Stitched Cloth Gloves of Health I
+Gloves
+0
+Armor|null
+Gloves
+0
+7
+0
+0
+0
+Defence +1;HP +1
+2
+Taikuus

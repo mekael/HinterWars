@@ -1,0 +1,14 @@
+87
+Fibre Boots
+Boots
+0
+Armor|\N
+Leg
+16
+27
+0
+0
+0
+Defence: 4; AP: 1; Accuracy: 6 (U)
+2
+Brucian

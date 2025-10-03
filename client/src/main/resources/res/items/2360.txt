@@ -1,0 +1,14 @@
+122
+Greater Torn Sheath
+Boots
+0
+Armor|\N
+Leg
+5
+41
+0
+0
+0
+Defence: 8 (N+)
+2
+Firan

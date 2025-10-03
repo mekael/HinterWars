@@ -1,0 +1,15 @@
+Knife Training
+1
+P|WPN|0|KNIFE|KNIFE|SF|N|EQ 1 1|N|ALL|&
+0
+1
+1
+Allows character to use daggers and machetes as weapons
+18
+Close Combat
+0
+0
+1
+0
+9
+-1

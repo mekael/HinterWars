@@ -1,0 +1,14 @@
+80
+Dirty Shoes
+Boots
+0
+Armor|\N
+Leg
+12
+14
+0
+0
+0
+Defence: 2
+2
+Brucian

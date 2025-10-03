@@ -1,0 +1,15 @@
+Regenerate
+2
+A|HP|4|25|ANY|SF|N|EQ 1 1|N|ALL|&
+0
+4
+25
+Heals a small amount of HPs over time
+74
+Nature's Might
+9
+0
+0
+7
+9
+0

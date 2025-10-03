@@ -1,0 +1,14 @@
+102
+Atris Boots
+Boots
+0
+Armor|\N
+Leg
+17
+57
+0
+0
+0
+Defence: 11; HP: 5; AP: 3 (U)
+2
+Human

@@ -1,0 +1,14 @@
+98
+Good Resin Boots of Speed
+Boots
+0
+Armor|\N
+Leg
+16
+51
+0
+0
+0
+Defence: 10; Energy: 6; AP: 2 (N+)
+2
+Human

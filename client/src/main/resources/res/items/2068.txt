@@ -1,0 +1,14 @@
+156
+Bracelet of Vampiress
+Bangle
+0
+Misc|\N
+Bangle
+1
+47
+0
+0
+0
+HP: -15; Energy: 15 (S)
+2
+All races

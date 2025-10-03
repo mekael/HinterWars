@@ -1,0 +1,14 @@
+8
+Ring of the Beast
+Ring
+0
+Misc|\N
+Ring1
+1
+51
+0
+0
+0
+Damage: 4
+2
+All races

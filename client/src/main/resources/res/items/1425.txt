@@ -1,0 +1,14 @@
+60
+Torn Leggings
+Boots
+0
+Armor|\N
+Leg
+4
+4
+0
+0
+0
+Defence: 0
+2
+Taikuus

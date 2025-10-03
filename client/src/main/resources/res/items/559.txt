@@ -1,0 +1,14 @@
+11
+Ring of Badger
+Ring
+0
+Misc|null
+Ring1
+0
+8
+0
+0
+0
+Accuracy +1;HP +2
+2
+All races

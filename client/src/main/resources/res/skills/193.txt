@@ -1,0 +1,15 @@
+Armor Skin
+3
+A|DEF|5|17|ANY|SF|N|EQ 1 1|N|ALL|&
+0
+4
+53
+Increases armor for a limited time
+71
+Nature's Might
+18
+0
+1
+11
+9
+0

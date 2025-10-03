@@ -1,0 +1,14 @@
+13
+Small Necklace of Minor Rage
+Necklace
+0
+Misc|null
+Neck
+0
+9
+0
+0
+0
+Damage +1
+2
+All races

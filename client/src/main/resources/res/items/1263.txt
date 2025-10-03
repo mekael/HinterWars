@@ -1,0 +1,14 @@
+7
+Polished Silver Necklace
+Necklace
+0
+Misc|\N
+Neck
+1
+21
+0
+0
+0
+Energy: 5 (N+)
+2
+All races

@@ -1,0 +1,14 @@
+51
+Cotton Gloves
+Gloves
+0
+Armor|null
+Gloves
+1
+8
+0
+0
+0
+HP +3
+2
+Human

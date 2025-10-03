@@ -1,0 +1,14 @@
+64
+Firm Sniper Stockings
+Boots
+0
+Armor|\N
+Leg
+8
+24
+0
+0
+0
+Defence: 3; AP: 1; Accuracy: 4 (N+)
+2
+Taikuus

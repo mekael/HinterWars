@@ -1,0 +1,15 @@
+Shock Arrow
+3
+A|DMG|0|72 i -|BOW|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|BOW|OM|N|EQ 1 1|Y|ALL|&A|EN|0|0 20 -|BOW|OM|N|EQ 1 1|N|ALL|&
+-1
+3
+50
+Deals minor damage to target and decreases target's energy
+42
+Bow Crafts
+20
+0
+1
+10
+1
+2

@@ -1,0 +1,4 @@
+Weapon=0
+Armor=1
+Misc=2
+Item=3

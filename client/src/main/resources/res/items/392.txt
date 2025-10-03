@@ -1,0 +1,14 @@
+71
+Canvas Gloves
+Gloves
+0
+Armor|null
+Gloves
+1
+6
+0
+0
+0
+HP +3
+2
+Firan

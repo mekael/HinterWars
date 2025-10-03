@@ -1,0 +1,14 @@
+74
+Stained Wind Shoes
+Boots
+0
+Armor|\N
+Leg
+3
+14
+0
+0
+0
+Defence: 2; HP: 1; AP: 1 (N+)
+2
+Firan

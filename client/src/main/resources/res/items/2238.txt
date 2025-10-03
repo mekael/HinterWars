@@ -1,0 +1,14 @@
+85
+Muc Gloves
+Gloves
+0
+Armor|\N
+Gloves
+6
+16
+0
+0
+0
+Defence: 1; Damage: 3; Accuracy: 6 (U+)
+2
+Brucian

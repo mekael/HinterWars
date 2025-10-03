@@ -1,0 +1,14 @@
+51
+Stitched Gloves
+Gloves
+0
+Armor|\N
+Gloves
+4
+17
+0
+0
+0
+Defence: 1
+2
+Human

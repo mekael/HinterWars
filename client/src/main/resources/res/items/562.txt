@@ -1,0 +1,14 @@
+14
+Small Ring of Minor Rage
+Ring
+0
+Misc|null
+Ring1
+0
+9
+0
+0
+0
+Damage +1
+2
+All races

@@ -1,0 +1,15 @@
+Bow Mastery
+3
+P|ACC|-1|12|BOW|SF|N|EQ 1 1|N|ALL|&
+0
+3
+43
+Added accuracy when using bows as a weapon attack
+25
+Bow Crafts
+0
+0
+1
+10
+9
+-1

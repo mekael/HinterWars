@@ -1,0 +1,14 @@
+60
+Ragged Leggings
+Boots
+0
+Armor|\N
+Leg
+5
+11
+0
+0
+0
+Defence: 1
+2
+Taikuus

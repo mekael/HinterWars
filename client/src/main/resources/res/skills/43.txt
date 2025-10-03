@@ -1,0 +1,15 @@
+Bleeding Strike
+1
+A|HP|1|0 5 -|KNIFE|OM|N|EQ 1 1|N|ALL|&
+-1
+1
+7
+Deals damage over time
+16
+Close Combat
+3
+0
+0
+3
+1
+3

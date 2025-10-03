@@ -1,0 +1,15 @@
+Healing Breeze
+3
+A|HP|9|80|BOOK|OC|N|EQ 1 1|N|ALL|&
+4
+2
+54
+Heals HP of party members within the targeted area
+54
+Support Magic
+70
+2
+1
+11
+4
+0

@@ -1,0 +1,6 @@
+-1=no effect
+0=Buff skill
+1=Debuff skill
+2=Flame skill
+3=Melee skill
+4=Ranged skill

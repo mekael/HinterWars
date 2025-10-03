@@ -1,0 +1,14 @@
+110
+Magi's Socks
+Boots
+0
+Armor|\N
+Leg
+12
+47
+0
+0
+0
+Defence: 6; HP: 5; AP: 2 (S)
+2
+Taikuus

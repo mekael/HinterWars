@@ -1,0 +1,14 @@
+119
+Heldin Gloves
+Gloves
+0
+Armor|\N
+Gloves
+7
+55
+0
+0
+0
+Defence: 5; Damage: 12; Accuracy: 18 (U)
+2
+Taikuus

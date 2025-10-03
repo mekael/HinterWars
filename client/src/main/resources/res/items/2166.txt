@@ -1,0 +1,14 @@
+146
+Torn Slippers
+Boots
+0
+Armor|\N
+Leg
+24
+41
+0
+0
+0
+Defence: 7
+2
+Brucian

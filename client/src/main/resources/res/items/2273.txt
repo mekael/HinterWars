@@ -1,0 +1,14 @@
+142
+Sandals of Pink Fire
+Boots
+0
+Armor|\N
+Leg
+20
+31
+0
+0
+0
+Defence: 5; Damage: 2; AP: 2 (S)
+2
+Brucian

@@ -1,0 +1,14 @@
+98
+Resin Boots of the Wind
+Boots
+0
+Armor|\N
+Leg
+17
+54
+0
+0
+0
+Defence: 10; AP: 3 (N+)
+2
+Human

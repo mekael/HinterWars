@@ -1,0 +1,14 @@
+123
+Cloth Bracer
+Gloves
+0
+Armor|\N
+Gloves
+2
+34
+0
+0
+0
+Defence: 4
+2
+Firan

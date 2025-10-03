@@ -1,0 +1,14 @@
+90
+Old Resin Boots
+Boots
+0
+Armor|\N
+Leg
+14
+44
+0
+0
+0
+Defence: 8
+2
+Human

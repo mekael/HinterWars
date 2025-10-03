@@ -1,0 +1,15 @@
+Staff Mastery
+2
+P|DMG|-1|2|STAFF|SF|N|EQ 1 1|N|ALL|&
+0
+2
+23
+Added damage when using Staffs as a weapon attack
+51
+Combat Magic
+0
+0
+0
+7
+9
+-1

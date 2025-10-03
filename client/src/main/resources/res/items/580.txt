@@ -1,0 +1,14 @@
+9
+Charm of Hawk
+Charm
+0
+Misc|null
+Amulet
+0
+8
+0
+0
+0
+Accuracy +3
+2
+All races

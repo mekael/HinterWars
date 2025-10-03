@@ -1,0 +1,14 @@
+90
+Normal Resin Boots
+Boots
+0
+Armor|\N
+Leg
+15
+47
+0
+0
+0
+Defence: 8
+2
+Human

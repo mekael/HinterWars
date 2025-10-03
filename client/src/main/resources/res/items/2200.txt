@@ -1,0 +1,14 @@
+150
+Slippers of Red Waters
+Boots
+0
+Armor|\N
+Leg
+24
+41
+0
+0
+0
+Defence: 8; Damage: 3; AP: 2 (S)
+2
+Brucian

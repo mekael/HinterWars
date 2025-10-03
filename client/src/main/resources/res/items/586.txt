@@ -1,0 +1,14 @@
+18
+Medium Health Potion
+Potion
+0
+Item|null
+Bag
+1
+1
+0
+0
+0
+HP +50
+2
+All races

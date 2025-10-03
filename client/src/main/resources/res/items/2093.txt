@@ -1,0 +1,14 @@
+12
+Spifire Charm
+Charm
+0
+Misc|\N
+Amulet
+1
+37
+0
+0
+0
+Damage: 6; Accuracy: 8 (S)
+2
+All races

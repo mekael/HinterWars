@@ -1,0 +1,14 @@
+8
+Chipped Bangle of Vibes
+Bangle
+0
+Misc|\N
+Bangle
+1
+4
+0
+0
+0
+HP: 2; Energy: 1
+2
+All races

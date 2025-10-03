@@ -1,0 +1,14 @@
+8
+Topaz Ring
+Ring
+0
+Misc|\N
+Ring1
+1
+41
+0
+0
+0
+Accuracy: 8
+2
+All races

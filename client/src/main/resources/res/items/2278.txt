@@ -1,0 +1,14 @@
+143
+Gauntlet of the Meteor
+Gloves
+0
+Armor|\N
+Gloves
+8
+21
+0
+0
+0
+Defence: 2; Accuracy: 10 (S)
+2
+Brucian

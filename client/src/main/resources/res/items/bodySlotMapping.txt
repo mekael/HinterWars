@@ -1,0 +1,11 @@
+Head=1
+Torso=2
+Hand=3
+Leg=5
+Neck=6
+Ring1=7
+Bangle=8
+Gloves=9
+Amulet=10
+Bag=0
+BothRing=15

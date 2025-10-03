@@ -1,0 +1,14 @@
+90
+Tailored Vigor Boots
+Boots
+0
+Armor|\N
+Leg
+11
+31
+0
+0
+0
+Defence: 5; HP: 2; Energy: 2 (N+)
+2
+Human

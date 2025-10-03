@@ -1,0 +1,14 @@
+146
+Normal Slippers
+Boots
+0
+Armor|\N
+Leg
+27
+47
+0
+0
+0
+Defence: 10
+2
+Brucian

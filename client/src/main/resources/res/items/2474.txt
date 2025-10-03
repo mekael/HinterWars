@@ -1,0 +1,14 @@
+54
+Cadet's Shoes
+Boots
+0
+Armor|\N
+Leg
+5
+7
+0
+0
+0
+Defence: 1; HP: 4 (S)
+2
+Human

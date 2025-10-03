@@ -1,0 +1,15 @@
+Healing PBAOE explosion (offensive) 4x4
+10
+A|HP|0|0 50 -|BOW|OM|N|EQ 1 1|N|ALL|&
+1
+5
+1
+PBAOE explosion that does 50dmg to all targets in 5x5 area. Will cast at below 40% health
+32
+Support Magic
+0
+5
+1
+0
+4
+2

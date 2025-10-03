@@ -1,0 +1,14 @@
+155
+Rainbow Friendship Band
+Bangle
+0
+Misc|\N
+Bangle
+1
+54
+0
+0
+0
+HP: 16; Energy: 8 (N+)
+2
+All races

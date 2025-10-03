@@ -1,0 +1,14 @@
+14
+Vampiric Ring
+Ring
+0
+Misc|\N
+Ring1
+1
+47
+0
+0
+0
+Damage: 12; HP: -15 (S)
+2
+All races

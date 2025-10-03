@@ -1,0 +1,14 @@
+7
+Necklace of the Phoenix
+Necklace
+0
+Misc|\N
+Neck
+1
+57
+0
+0
+0
+Accuracy: 10
+2
+All races

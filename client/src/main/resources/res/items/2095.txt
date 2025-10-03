@@ -1,0 +1,14 @@
+12
+Eyes of Dracula
+Charm
+0
+Misc|\N
+Amulet
+1
+47
+0
+0
+0
+HP: -15; Accuracy: 30 (S)
+2
+All races

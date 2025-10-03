@@ -1,0 +1,15 @@
+Keen Eyes
+1
+P|ACC|-1|4|ANY|SF|N|EQ 1 1|N|ALL|&
+0
+3
+15
+Increase accuracy of user
+35
+Warrior Crafts
+2
+0
+0
+5
+3
+0

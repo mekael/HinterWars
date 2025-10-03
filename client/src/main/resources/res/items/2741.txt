@@ -1,0 +1,14 @@
+154
+Finese Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+52
+0
+0
+0
+HP: +120; ACC: +24
+2
+Human

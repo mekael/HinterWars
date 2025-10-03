@@ -1,0 +1,14 @@
+135
+Sol Gloves
+Gloves
+0
+Armor|\N
+Gloves
+3
+57
+0
+0
+0
+Defence: 8; Damage: 3; Accuracy: 30 (U+)
+2
+Firan

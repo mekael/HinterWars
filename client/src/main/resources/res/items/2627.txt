@@ -1,0 +1,14 @@
+65
+Genie's Gloves
+Gloves
+0
+Armor|\N
+Gloves
+3
+17
+0
+0
+0
+Defence: 2; Damage: 1; Accuracy: 8 (S)
+2
+Taikuus

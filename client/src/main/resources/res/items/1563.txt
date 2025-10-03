@@ -1,0 +1,14 @@
+11
+Fine Bangle of Vibes
+Bangle
+0
+Misc|\N
+Bangle
+1
+1
+0
+0
+0
+HP: 2; Energy: 1 (N+)
+2
+All races

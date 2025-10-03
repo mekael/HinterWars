@@ -1,0 +1,14 @@
+90
+Smart Boots
+Boots
+0
+Armor|\N
+Leg
+12
+37
+0
+0
+0
+Defence: 6
+2
+Human

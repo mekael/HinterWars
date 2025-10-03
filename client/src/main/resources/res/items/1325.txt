@@ -1,0 +1,14 @@
+50
+Stitched Shoes
+Boots
+0
+Armor|\N
+Leg
+8
+17
+0
+0
+0
+Defence: 2
+2
+Human

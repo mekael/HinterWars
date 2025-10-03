@@ -1,0 +1,14 @@
+5
+Titanium Ring
+Ring
+0
+Misc|\N
+Ring1
+1
+21
+0
+0
+0
+Action Points: 1
+2
+All races

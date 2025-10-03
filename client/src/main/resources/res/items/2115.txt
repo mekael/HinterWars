@@ -1,0 +1,14 @@
+13
+Necklace of the Dead
+Necklace
+0
+Misc|\N
+Neck
+1
+11
+0
+0
+0
+HP: 10; Energy: 10; Action Points: -1;  (S)
+2
+All races

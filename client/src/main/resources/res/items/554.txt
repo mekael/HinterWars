@@ -1,0 +1,14 @@
+8
+Small Ring of Accuracy
+Ring
+0
+Misc|null
+Ring1
+0
+6
+0
+0
+0
+Accuracy +1
+2
+All races

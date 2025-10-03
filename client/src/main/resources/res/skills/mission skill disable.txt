@@ -1,0 +1,71 @@
+case MessageFormat.ME_SKILLS_TYPE:
+	//l7 | skill id\n
+	Skill skill = gameData.skillManager.newSkill(Long.parseLong(messageParts[1]));
+	System.out.println("skill type = "+skill.getSkillType());
+	if(skill.isActiveSkill() && skill.getSkillID() != 1) {
+		Item wep = ((Player)missionPlayers.get(Long.valueOf(gameData.characterID))).getEquipedWeapon();
+		if(wep != null) {
+			String wty = wep.getItemDetails().getItemType();
+			System.out.println("weapon = "+wty);
+			if(wty.equalsIgnoreCase("gun")) {
+				if(skill.getSkillType().equalsIgnoreCase("close combat"))
+					skill.setDisable(true);
+				else
+					skill.setDisable(false);
+			} else if(wty.equalsIgnoreCase("knife")) {
+				if(skill.getSkillType().equalsIgnoreCase("gunnery"))
+					skill.setDisable(true);
+				else
+					skill.setDisable(false);
+			} else if(wty.equalsIgnoreCase("sword")) {
+				if(skill.getSkillType().equalsIgnoreCase("bow crafts"))
+					skill.setDisable(true);
+				else
+					skill.setDisable(false);
+			} else if(wty.equalsIgnoreCase("bow")) {
+				if(skill.getSkillType().equalsIgnoreCase("sword crafts"))
+					skill.setDisable(true);
+				else
+					skill.setDisable(false);
+			} else if(wty.equalsIgnoreCase("book")) {
+				if(skill.getSkillType().equalsIgnoreCase("combat magic"))
+					skill.setDisable(true);
+				else
+					skill.setDisable(false);
+			} else if(wty.equalsIgnoreCase("staff")) {
+				if(skill.getSkillType().equalsIgnoreCase("support magic"))
+					skill.setDisable(true);
+				else
+					skill.setDisable(false);
+			} else if(wty.equalsIgnoreCase("claw")) {
+				if(skill.getSkillType().equalsIgnoreCase("knuckles training"))
+					skill.setDisable(true);
+				else
+					skill.setDisable(false);
+			} else if(wty.equalsIgnoreCase("knuckles")) {
+				if(skill.getSkillType().equalsIgnoreCase("claws training"))
+					skill.setDisable(true);
+				else
+					skill.setDisable(false);
+			}
+			else {
+				skill.setDisable(false);
+			}
+		} else {
+			if(skill.getSkillType().equalsIgnoreCase("close combat") ||
+				skill.getSkillType().equalsIgnoreCase("gunnery") ||
+				skill.getSkillType().equalsIgnoreCase("bow crafts") ||
+				skill.getSkillType().equalsIgnoreCase("sword crafts") ||
+				skill.getSkillType().equalsIgnoreCase("combat magic") ||
+				skill.getSkillType().equalsIgnoreCase("support magic") ||
+				skill.getSkillType().equalsIgnoreCase("knuckles training") ||
+				skill.getSkillType().equalsIgnoreCase("claws training")) {
+				skill.setDisable(true);
+			} else {
+				skill.setDisable(false);
+			}
+		}
+		System.out.println("skill disable = "+skill.isDisable());
+		((Player)missionPlayers.get(Long.valueOf(gameData.characterID))).addSkill(skill);
+					
+	}

@@ -1,0 +1,15 @@
+First Aid
+1
+A|HP|0|20|ANY|AC|N|EQ 1 1|N|ALL|&
+0
+1
+9
+Restore some of party members' health point
+3
+Leadership
+10
+0
+0
+3
+6
+0

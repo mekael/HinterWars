@@ -1,0 +1,24 @@
+Attack|92|1
+Claws Training|69|187
+Claws Mastery|70|188;189;190
+Armor Skin|71|191;192;193
+Earth Vigor|72|194;195;196
+Final Blow|73|197;198;199
+Regenerate|74|200;201;202
+Tough|75|203;204;205
+Stomp Quake|76|206
+Thorny Grasp|77|207;208;209
+Power Claws|78|210;211;212
+Puncture|79|213;214;215
+Rend|80|216;217;218
+Shocking Whirl|81|219;220;221
+Wounding Slash|82|222;223;224
+Crippling Blow|83|225;226;227
+Double Strike|84|228;229;230
+Ethereal Blow|85|231;232;233
+Knuckles Training|86|234
+Knuckles Mastery|87|235;236;237
+Penetrating Strike|88|238;239;240
+Rain of Fists|89|241;242;243
+Sapping Blow|90|244;245;246
+Fist of a trillion llamas|4|255

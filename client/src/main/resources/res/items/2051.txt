@@ -1,0 +1,14 @@
+154
+Rainbow Wrist Band
+Bangle
+0
+Misc|\N
+Bangle
+1
+54
+0
+0
+0
+HP: 11; Energy: 5
+2
+All races

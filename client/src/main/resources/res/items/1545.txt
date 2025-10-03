@@ -1,0 +1,14 @@
+84
+Firm Sniper Sandals
+Boots
+0
+Armor|\N
+Leg
+16
+24
+0
+0
+0
+Defence: 3; AP: 1; Accuracy: 4 (N+)
+2
+Brucian

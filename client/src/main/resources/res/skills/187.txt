@@ -1,0 +1,15 @@
+Claws Training
+1
+P|WPN|0|CLAW|CLAW|SF|N|EQ 1 1|N|ALL|&
+0
+4
+1
+Ability to use claws as weapons (Free)
+69
+Claws Training
+0
+0
+1
+0
+9
+-1

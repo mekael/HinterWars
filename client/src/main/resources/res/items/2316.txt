@@ -1,0 +1,14 @@
+134
+Ninja's Sheath
+Boots
+0
+Armor|\N
+Leg
+5
+51
+0
+0
+0
+Defence: 10; AP: 3 (S)
+2
+Firan

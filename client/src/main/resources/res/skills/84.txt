@@ -1,0 +1,15 @@
+Hail of Slash
+2
+A|DMG|0|50 i -|SWORD|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|SWORD|OM|N|EQ 1 1|Y|ALL|&
+0
+3
+34
+Deals damages to foes around the user
+32
+Sword Crafts
+20
+1
+0
+8
+3
+3

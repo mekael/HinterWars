@@ -1,0 +1,14 @@
+7
+Garnet Necklace
+Necklace
+0
+Misc|\N
+Neck
+1
+44
+0
+0
+0
+HP: 23
+2
+All races

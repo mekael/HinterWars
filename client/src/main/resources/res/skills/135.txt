@@ -1,0 +1,15 @@
+Energy Transfer
+1
+A|EN|0|5|BOOK|OC|N|EQ 1 1|N|ALL|&
+4
+2
+8
+Gives target a small amount of energy
+52
+Support Magic
+6
+0
+0
+3
+2
+0

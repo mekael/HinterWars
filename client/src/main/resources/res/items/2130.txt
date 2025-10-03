@@ -1,0 +1,14 @@
+8
+Refined Garnet Ring
+Ring
+0
+Misc|\N
+Ring1
+1
+47
+0
+0
+0
+HP: 26
+2
+All races

@@ -1,0 +1,14 @@
+4
+Cracked Necklace of energy
+Necklace
+0
+Misc|\N
+Neck
+1
+1
+0
+0
+0
+Energy: 1
+2
+All races

@@ -1,0 +1,14 @@
+54
+Light Beaded Cotton Boots
+Boots
+0
+Armor|null
+Leg
+0
+8
+0
+0
+0
+HP +3
+2
+Human

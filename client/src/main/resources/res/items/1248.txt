@@ -1,0 +1,14 @@
+6
+Glowing Charm of Mercury
+Charm
+0
+Misc|\N
+Amulet
+1
+21
+0
+0
+0
+HP: 10 (N+)
+2
+All races

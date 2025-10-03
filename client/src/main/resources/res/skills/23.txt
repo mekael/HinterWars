@@ -1,0 +1,15 @@
+Gun Mastery
+2
+P|DMG|-1|2|GUN|SF|N|EQ 1 1|N|ALL|&
+0
+1
+21
+Added damage for gun attacks
+9
+Gunnery
+0
+0
+0
+7
+9
+-1

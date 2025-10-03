@@ -1,0 +1,14 @@
+90
+Torn Resin Boots
+Boots
+0
+Armor|\N
+Leg
+13
+41
+0
+0
+0
+Defence: 7
+2
+Human

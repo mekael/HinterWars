@@ -1,0 +1,14 @@
+55
+Recruit's Gloves
+Gloves
+0
+Armor|\N
+Gloves
+2
+4
+0
+0
+0
+Defence: 1; Accuracy: 4 (S)
+2
+Human

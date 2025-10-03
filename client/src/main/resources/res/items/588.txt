@@ -1,0 +1,14 @@
+16
+Minor Health Potion
+Potion
+0
+Item|null
+Bag
+1
+6
+0
+0
+0
+HP +100
+2
+All races

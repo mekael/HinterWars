@@ -1,0 +1,14 @@
+135
+Nikko's Gold Bracers
+Gloves
+0
+Armor|\N
+Gloves
+3
+57
+0
+0
+0
+Defence: 8; Damage: 5 (S)
+2
+Firan

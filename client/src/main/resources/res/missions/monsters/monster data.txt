@@ -1,0 +1,24 @@
+name
+level
+maxHP
+maxEN
+maxAP
+glamour shot image
+offsetX
+offsetY
+number of frame - Stand
+stand image
+stand image
+..
+number of frame - walk
+walk image
+walk image
+..
+number of frame - attack
+attack image
+attack image
+..
+number of frame - hit
+hit image
+hit image
+..

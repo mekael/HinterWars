@@ -1,0 +1,14 @@
+95
+Xyzel Gloves
+Gloves
+0
+Armor|\N
+Gloves
+6
+37
+0
+0
+0
+Defence: 5; Damage: 5; Accuracy: 10 (U+)
+2
+Human

@@ -1,0 +1,14 @@
+85
+Gloves of the Earth
+Gloves
+0
+Armor|\N
+Gloves
+4
+7
+0
+0
+0
+Defence: 1; Damage: 1 (S)
+2
+Brucian

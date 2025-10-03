@@ -1,0 +1,14 @@
+85
+Gloves of the Soil
+Gloves
+0
+Armor|\N
+Gloves
+4
+4
+0
+0
+0
+Defence: 0; Accuracy: 4 (S)
+2
+Brucian

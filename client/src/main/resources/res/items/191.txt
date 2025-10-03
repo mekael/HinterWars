@@ -1,0 +1,14 @@
+50
+Cotton Boots
+Boots
+0
+Armor|null
+Leg
+1
+7
+0
+0
+0
+HP +2
+2
+Human

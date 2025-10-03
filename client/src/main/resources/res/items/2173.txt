@@ -1,0 +1,14 @@
+147
+Old Precise Iron Gloves
+Gloves
+0
+Armor|\N
+Gloves
+13
+44
+0
+0
+0
+Defence: 6; Accuracy: 13 (N+)
+2
+Brucian

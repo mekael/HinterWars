@@ -1,0 +1,14 @@
+150
+Slippers of the Ocean
+Boots
+0
+Armor|\N
+Leg
+27
+47
+0
+0
+0
+Defence: 11; Damage: 5; AP: 2 (S)
+2
+Brucian

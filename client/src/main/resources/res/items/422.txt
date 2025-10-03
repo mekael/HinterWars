@@ -1,0 +1,14 @@
+71
+Studded Corduroy Gloves
+Gloves
+0
+Armor|null
+Gloves
+3
+10
+0
+0
+0
+Defence +3
+2
+Human

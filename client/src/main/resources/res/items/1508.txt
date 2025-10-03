@@ -1,0 +1,14 @@
+81
+Ragged Gloves
+Gloves
+0
+Armor|\N
+Gloves
+5
+11
+0
+0
+0
+Defence: 1
+2
+Brucian

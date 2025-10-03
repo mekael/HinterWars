@@ -1,0 +1,15 @@
+Wounding Slash
+1
+A|DMG|0|15|CLAW|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|CLAW|OM|N|EQ 1 1|Y|BIO|&
+-1
+4
+19
+Deals high damages to biological foe
+82
+Claws Training & Origin Specific Skills
+2
+0
+0
+5
+1
+2

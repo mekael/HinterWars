@@ -1,0 +1,15 @@
+Penetrating Strike
+2
+A|HP|0|0 27 -|KNUCKLES|OM|N|EQ 1 1|N|ALL|&
+-1
+4
+28
+Acute hit that ignores target's armor
+88
+Knuckles Training
+9
+0
+0
+7
+1
+3

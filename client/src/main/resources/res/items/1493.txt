@@ -1,0 +1,14 @@
+80
+Torn Shoes
+Boots
+0
+Armor|\N
+Leg
+7
+4
+0
+0
+0
+Defence: 0
+2
+Brucian

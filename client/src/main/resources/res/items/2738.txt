@@ -1,0 +1,14 @@
+154
+Pink Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+46
+0
+0
+0
+HP: +220
+2
+Human

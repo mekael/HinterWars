@@ -1,0 +1,14 @@
+68
+Triple Stitched Gloves of Health III
+Gloves
+0
+Armor|null
+Gloves
+0
+8
+0
+0
+0
+Defence +2;HP +3
+2
+Taikuus

@@ -1,0 +1,15 @@
+Battle Planning
+1
+A|ACC|-1|4|ANY|AC|Y|EQ 1 1|N|ALL|&
+0
+1
+8
+Increases all party members' accuracy
+1
+Leadership
+4
+0
+0
+3
+6
+0

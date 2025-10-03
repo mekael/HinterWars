@@ -1,0 +1,15 @@
+Stomp Quake
+1
+A|DMG|0|40 i -|ANY|SF|N|EQ 1 1|N|ALL|&A|EN|0|0 20 -|ANY|AM|N|EQ 1 1|Y|ALL|&
+0
+4
+58
+Deals enormous damage to HP and energy of all foes on map
+76
+Ultimate Skills
+35
+0
+1
+11
+5
+2

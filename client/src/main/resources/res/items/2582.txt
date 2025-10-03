@@ -1,0 +1,14 @@
+115
+Good Silk Mittens of Pain
+Gloves
+0
+Armor|\N
+Gloves
+7
+51
+0
+0
+0
+Defence: 4; Damage: 12 (N+)
+2
+Taikuus

@@ -1,0 +1,14 @@
+147
+Torn Iron Gloves of Pain
+Gloves
+0
+Armor|\N
+Gloves
+12
+41
+0
+0
+0
+Defence: 5; Damage: 7 (N+)
+2
+Brucian

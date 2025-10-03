@@ -1,0 +1,14 @@
+103
+Atris Gauntlets
+Gloves
+0
+Armor|\N
+Gloves
+9
+56
+0
+0
+0
+Defence: 7; Accuracy: 25 (U)
+2
+Human

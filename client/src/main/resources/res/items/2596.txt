@@ -1,0 +1,14 @@
+118
+Angel's Socks
+Boots
+0
+Armor|\N
+Leg
+13
+51
+0
+0
+0
+Defence: 7; HP: 5; AP: 3 (S)
+2
+Taikuus

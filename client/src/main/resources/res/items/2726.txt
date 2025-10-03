@@ -1,0 +1,14 @@
+154
+Repellent Bangle
+Bangle
+0
+Misc|\N
+Bangle
+7
+50
+0
+0
+0
+Defence: +55
+2
+Brucian

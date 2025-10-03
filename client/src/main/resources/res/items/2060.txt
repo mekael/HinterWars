@@ -1,0 +1,14 @@
+156
+Bangle of Precision
+Bangle
+0
+Misc|\N
+Bangle
+1
+7
+0
+0
+0
+Accuracy: 10;  (S)
+2
+All races

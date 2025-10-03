@@ -1,0 +1,14 @@
+14
+Ring of Energy Transfer
+Ring
+0
+Misc|\N
+Ring1
+1
+21
+0
+0
+0
+HP: 50; Energy: -25;  (S)
+2
+All races

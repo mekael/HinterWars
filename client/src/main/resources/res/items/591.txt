@@ -1,0 +1,14 @@
+16
+Superior Health Potion
+Potion
+0
+Item|null
+Bag
+1
+30
+0
+0
+0
+HP +250
+2
+All races

@@ -1,0 +1,14 @@
+111
+Necromancer's Mittens
+Gloves
+0
+Armor|\N
+Gloves
+5
+31
+0
+0
+0
+Defence: 3; Damage: 4; Accuracy: 12 (S)
+2
+Taikuus

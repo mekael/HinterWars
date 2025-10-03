@@ -1,0 +1,14 @@
+150
+Chizen Buskin
+Boots
+0
+Armor|\N
+Leg
+30
+56
+0
+0
+0
+Defence: 19; AP: 5 (U+)
+2
+Brucian

@@ -1,0 +1,14 @@
+154
+Nice Bangle of Tides
+Bangle
+0
+Misc|\N
+Bangle
+1
+37
+0
+0
+0
+HP: 6; Energy: 4
+2
+All races

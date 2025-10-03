@@ -1,0 +1,14 @@
+127
+Sun Tzu's Gold Bracers
+Gloves
+0
+Armor|\N
+Gloves
+3
+47
+0
+0
+0
+Defence: 6; Damage: 2; Accuracy: 14 (S)
+2
+Firan

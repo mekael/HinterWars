@@ -1,0 +1,14 @@
+106
+Old Socks of Speed
+Boots
+0
+Armor|\N
+Leg
+12
+44
+0
+0
+0
+Defence: 6; AP: 2; Accuracy: 4 (N+)
+2
+Taikuus

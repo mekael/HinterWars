@@ -1,0 +1,14 @@
+10
+Pure Moonstone Necklace
+Necklace
+0
+Misc|\N
+Neck
+1
+41
+0
+0
+0
+Energy: 9 (N+)
+2
+All races

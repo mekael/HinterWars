@@ -1,0 +1,14 @@
+64
+Wizard's Stockings
+Boots
+0
+Armor|\N
+Leg
+8
+27
+0
+0
+0
+Defence: 3; HP: 10; AP: 1 (S)
+2
+Taikuus

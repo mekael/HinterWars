@@ -1,0 +1,14 @@
+130
+Perfect Sheath
+Boots
+0
+Armor|\N
+Leg
+5
+57
+0
+0
+0
+Defence: 11
+2
+Firan

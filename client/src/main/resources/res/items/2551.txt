@@ -1,0 +1,14 @@
+95
+Captain's Wristband
+Gloves
+0
+Armor|\N
+Gloves
+6
+27
+0
+0
+0
+Defence: 3; Damage: 2; Accuracy: 8 (S)
+2
+Human

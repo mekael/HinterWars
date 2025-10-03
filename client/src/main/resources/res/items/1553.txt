@@ -1,0 +1,14 @@
+80
+Durable Sandals
+Boots
+0
+Armor|\N
+Leg
+18
+27
+0
+0
+0
+Defence: 4
+2
+Brucian

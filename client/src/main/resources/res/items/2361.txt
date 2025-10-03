@@ -1,0 +1,14 @@
+122
+Old Sheath of the Wind
+Boots
+0
+Armor|\N
+Leg
+5
+44
+0
+0
+0
+Defence: 8; AP: 2; Accuracy: 4 (N+)
+2
+Firan

@@ -1,0 +1,14 @@
+60
+Old Stockings
+Boots
+0
+Armor|\N
+Leg
+7
+21
+0
+0
+0
+Defence: 3
+2
+Taikuus

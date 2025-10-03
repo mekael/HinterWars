@@ -1,0 +1,14 @@
+11
+Flawless Bangle of Vibes
+Bangle
+0
+Misc|\N
+Bangle
+1
+4
+0
+0
+0
+HP: 3; Energy: 1 (N+)
+2
+All races

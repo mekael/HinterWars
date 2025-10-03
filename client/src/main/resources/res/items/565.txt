@@ -1,0 +1,14 @@
+7
+Small Necklace of Health
+Necklace
+0
+Misc|null
+Neck
+0
+6
+0
+0
+0
+HP +2
+2
+All races

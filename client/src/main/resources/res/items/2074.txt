@@ -1,0 +1,14 @@
+6
+Garnet Charm
+Charm
+0
+Misc|\N
+Amulet
+1
+41
+0
+0
+0
+HP: 20
+2
+All races

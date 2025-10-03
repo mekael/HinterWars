@@ -1,0 +1,14 @@
+70
+Fastened Boots
+Boots
+0
+Armor|\N
+Leg
+3
+24
+0
+0
+0
+Defence: 3
+2
+Firan

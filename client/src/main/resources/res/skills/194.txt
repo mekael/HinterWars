@@ -1,0 +1,15 @@
+Earth Vigor
+1
+A|MaxHP|4|90|ANY|SF|N|EQ 1 1|N|ALL|&A|HP|0|90|ANY|SF|Y|EQ 1 1|N|ALL|&
+0
+4
+18
+Increases maximum HP for a limited time
+72
+Nature's Might
+9
+0
+0
+5
+9
+0

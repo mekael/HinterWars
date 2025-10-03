@@ -1,0 +1,15 @@
+Healing Touch
+1
+A|HP|0|20|BOOK|OC|N|EQ 1 1|N|ALL|&
+4
+2
+6
+Heal some HP on target
+55
+Support Magic
+2
+0
+0
+3
+2
+0

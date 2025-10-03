@@ -1,0 +1,14 @@
+6
+Tailsman of Greater Mist
+Charm
+0
+Misc|\N
+Amulet
+1
+37
+0
+0
+0
+Energy: 6
+2
+All races

@@ -1,0 +1,14 @@
+81
+Boneskin Gloves
+Gloves
+0
+Armor|null
+Gloves
+2
+9
+0
+0
+0
+Defence +2
+2
+Brucian

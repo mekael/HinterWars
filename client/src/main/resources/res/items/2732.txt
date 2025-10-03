@@ -1,0 +1,14 @@
+154
+Ward Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+54
+0
+0
+0
+Defence: +65
+2
+Brucian

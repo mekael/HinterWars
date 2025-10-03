@@ -1,0 +1,14 @@
+14
+The Holy Ring
+Ring
+0
+Misc|\N
+Ring1
+1
+4
+0
+0
+0
+HP: 10;  (S)
+2
+All races

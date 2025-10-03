@@ -1,0 +1,14 @@
+9
+Torn Charm of energy
+Charm
+0
+Misc|\N
+Amulet
+1
+7
+0
+0
+0
+Energy: 1
+2
+All races

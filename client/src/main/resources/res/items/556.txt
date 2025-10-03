@@ -1,0 +1,14 @@
+8
+Small Ring of Minor Protection
+Ring
+0
+Misc|null
+Ring1
+0
+8
+0
+0
+0
+Defence +1
+2
+All races

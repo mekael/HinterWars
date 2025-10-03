@@ -1,0 +1,14 @@
+80
+Singed Shoes
+Boots
+0
+Armor|\N
+Leg
+8
+7
+0
+0
+0
+Defence: 1
+2
+Brucian

@@ -1,0 +1,14 @@
+91
+Wristband of Focus
+Gloves
+0
+Armor|\N
+Gloves
+6
+31
+0
+0
+0
+Defence: 4; Accuracy: 10 (N+)
+2
+Human

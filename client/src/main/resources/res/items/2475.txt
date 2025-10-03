@@ -1,0 +1,14 @@
+54
+Midshipman's Shoes
+Boots
+0
+Armor|\N
+Leg
+6
+11
+0
+0
+0
+Defence: 2; AP: 1 (S)
+2
+Human

@@ -1,0 +1,14 @@
+5
+Chipped Ring of accuracy
+Ring
+0
+Misc|\N
+Ring1
+1
+1
+0
+0
+0
+Accuracy: 2
+2
+All races

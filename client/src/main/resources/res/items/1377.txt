@@ -1,0 +1,14 @@
+74
+Worn Hasty Shoes
+Boots
+0
+Armor|\N
+Leg
+3
+11
+0
+0
+0
+Defence: 2; AP: 1 (N+)
+2
+Firan

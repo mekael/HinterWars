@@ -1,0 +1,14 @@
+134
+Sol Tail-Pants
+Boots
+0
+Armor|\N
+Leg
+5
+57
+0
+0
+0
+Defence: 12; Energy: 10; AP: 4 (U+)
+2
+Firan

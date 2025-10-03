@@ -1,0 +1,14 @@
+94
+Xyzel Shoes
+Boots
+0
+Armor|\N
+Leg
+12
+38
+0
+0
+0
+Defence: 7; Energy: 8; AP: 2 (U+)
+2
+Human

@@ -1,0 +1,14 @@
+4
+Flirex's Chains
+Necklace
+0
+Misc|\N
+Neck
+1
+41
+0
+0
+0
+HP: 2; Accuracy: 20 (S)
+2
+All races

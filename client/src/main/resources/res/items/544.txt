@@ -1,0 +1,14 @@
+60
+Studded Brocade Boots
+Boots
+0
+Armor|null
+Leg
+3
+10
+0
+0
+0
+Defence +3
+2
+Taikuus

@@ -1,0 +1,15 @@
+Charged Slam
+2
+A|DMG|0|10|BOOK|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|BOOK|OM|N|EQ 1 1|Y|ALL|&
+1
+2
+27
+Does more damage when attacking with a book
+59
+Support Magic
+2
+0
+0
+7
+1
+3

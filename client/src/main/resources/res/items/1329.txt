@@ -1,0 +1,14 @@
+50
+Old Boots
+Boots
+0
+Armor|\N
+Leg
+9
+21
+0
+0
+0
+Defence: 2
+2
+Human

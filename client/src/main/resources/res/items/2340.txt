@@ -1,0 +1,14 @@
+75
+Genki Na Gloves
+Gloves
+0
+Armor|\N
+Gloves
+2
+11
+0
+0
+0
+Defence: 1; Damage: 1; Accuracy: 2 (S)
+2
+Firan

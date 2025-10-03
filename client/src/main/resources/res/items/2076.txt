@@ -1,0 +1,14 @@
+6
+Perfect Moonstone Charm
+Charm
+0
+Misc|\N
+Amulet
+1
+47
+0
+0
+0
+Energy: 9
+2
+All races

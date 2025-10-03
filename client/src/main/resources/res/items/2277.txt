@@ -1,0 +1,14 @@
+142
+Rinx Boots
+Boots
+0
+Armor|\N
+Leg
+21
+36
+0
+0
+0
+Defence: 7; Energy: 5; AP: 3 (U+)
+2
+Brucian

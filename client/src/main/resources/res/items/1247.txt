@@ -1,0 +1,14 @@
+3
+Charm of Mercury
+Charm
+0
+Misc|\N
+Amulet
+1
+21
+0
+0
+0
+HP: 8
+2
+All races

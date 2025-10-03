@@ -1,0 +1,14 @@
+84
+Muc Boots
+Boots
+0
+Armor|\N
+Leg
+12
+17
+0
+0
+0
+Defence: 2; HP: 3; AP: 2 (U+)
+2
+Brucian

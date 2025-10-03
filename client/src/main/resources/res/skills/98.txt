@@ -1,0 +1,15 @@
+Lightning Slash
+1
+A|DMG|0|12|SWORD|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|SWORD|OM|N|EQ 1 1|Y|ALL|&
+-1
+3
+10
+Deals more damage than a Power Slash
+37
+Sword Crafts
+3
+0
+0
+3
+1
+3

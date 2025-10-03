@@ -1,0 +1,14 @@
+14
+Oak Ring of Constriction
+Ring
+0
+Misc|\N
+Ring1
+1
+17
+0
+0
+0
+Damage: 2; Energy: -2;  (S)
+2
+All races

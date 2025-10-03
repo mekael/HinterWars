@@ -1,0 +1,14 @@
+119
+Devil's Silk Mittens
+Gloves
+0
+Armor|\N
+Gloves
+7
+57
+0
+0
+0
+Defence: 5; Damage: 10; Accuracy: 14 (S)
+2
+Taikuus

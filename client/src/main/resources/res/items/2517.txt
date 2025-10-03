@@ -1,0 +1,14 @@
+91
+Normal Elbow Gloves
+Gloves
+0
+Armor|\N
+Gloves
+8
+47
+0
+0
+0
+Defence: 6
+2
+Human

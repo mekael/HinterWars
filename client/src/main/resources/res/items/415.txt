@@ -1,0 +1,14 @@
+77
+Firan Triple Stitched Boots of Health II
+Boots
+0
+Armor|null
+Leg
+0
+8
+0
+0
+0
+Defence +2;HP +2
+2
+Firan

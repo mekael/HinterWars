@@ -1,0 +1,14 @@
+8
+Small Ring of energy
+Ring
+0
+Misc|\N
+Ring1
+1
+4
+0
+0
+0
+Energy: 2 (N+)
+2
+All races

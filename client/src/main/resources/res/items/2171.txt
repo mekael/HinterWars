@@ -1,0 +1,14 @@
+146
+Flawless Slippers
+Boots
+0
+Armor|\N
+Leg
+32
+57
+0
+0
+0
+Defence: 16
+2
+Brucian

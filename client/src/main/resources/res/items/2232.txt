@@ -1,0 +1,14 @@
+84
+Shoes of Violet Aura
+Boots
+0
+Armor|\N
+Leg
+13
+17
+0
+0
+0
+Defence: 2; Damage: 1; AP: 1 (S)
+2
+Brucian

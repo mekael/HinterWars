@@ -1,0 +1,2 @@
+Mock Quest Mission 1
+This is a test for the new update to quest logs. You should see Mock Quest 1 part 2 in the logs if this works.

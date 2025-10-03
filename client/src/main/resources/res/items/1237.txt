@@ -1,0 +1,14 @@
+3
+Torn Charm of Health
+Charm
+0
+Misc|\N
+Amulet
+1
+1
+0
+0
+0
+HP: 2
+2
+All races

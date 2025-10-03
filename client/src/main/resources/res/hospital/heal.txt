@@ -1,0 +1,6 @@
+H|Sml HP Heal|Heals 20 HP. 7 sidos.
+H|Med HP Heal|Heals 50 HP. 12 sidos.
+H|Lrg HP Heal|Heals 100 HP. 17 sidos.
+E|Sml EN Recover|Recovers 20 Energy. 4 sidos.
+E|Med EN Recover|Recovers 50 Energy. 12 sidos.
+E|Lrg EN Recover|Recovers 100 Energy. 17 sidos.

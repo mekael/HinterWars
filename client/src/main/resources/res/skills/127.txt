@@ -1,0 +1,15 @@
+Magic Book Training
+1
+P|WPN|0|BOOK|BOOK|SF|N|EQ 1 1|N|ALL|&
+0
+2
+1
+Ability to use books/tomes as weapons (Free)
+48
+Support Magic
+0
+0
+1
+0
+9
+-1

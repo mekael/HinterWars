@@ -1,0 +1,14 @@
+154
+Shielding Bangle
+Bangle
+0
+Misc|\N
+Bangle
+5
+46
+0
+0
+0
+Defence: +45
+2
+Brucian

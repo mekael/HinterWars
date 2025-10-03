@@ -1,0 +1,14 @@
+13
+Jack's Necklace of Trades
+Necklace
+0
+Misc|\N
+Neck
+1
+21
+0
+0
+0
+HP: 25; Energy: 13;  (S)
+2
+All races

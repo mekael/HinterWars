@@ -1,0 +1,14 @@
+50
+Singed Shoes
+Boots
+0
+Armor|null
+Leg
+5
+7
+0
+0
+0
+Defence: 1
+2
+Human

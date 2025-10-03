@@ -1,0 +1,14 @@
+151
+Iron Gloves of the Ocean
+Gloves
+0
+Armor|\N
+Gloves
+14
+47
+0
+0
+0
+Defence: 8; Damage: 5; Accuracy: 14 (S)
+2
+Brucian

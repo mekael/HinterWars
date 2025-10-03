@@ -1,0 +1,14 @@
+81
+Old Gauntlet
+Gloves
+0
+Armor|\N
+Gloves
+8
+21
+0
+0
+0
+Defence: 2
+2
+Brucian

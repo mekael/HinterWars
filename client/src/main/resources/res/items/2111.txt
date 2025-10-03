@@ -1,0 +1,14 @@
+10
+Pure Necklace of the Moon
+Necklace
+0
+Misc|\N
+Neck
+1
+51
+0
+0
+0
+Armour: 11 (N+)
+2
+All races

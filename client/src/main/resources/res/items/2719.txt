@@ -1,0 +1,14 @@
+16
+Minor Elixir
+Potion
+0
+Item|null
+Bag
+1
+40
+0
+0
+0
+Heals 160HP, Replendish 40EN
+2
+All races

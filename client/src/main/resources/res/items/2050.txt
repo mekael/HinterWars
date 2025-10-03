@@ -1,0 +1,14 @@
+154
+Rainbow Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+51
+0
+0
+0
+HP: 10; Energy: 5
+2
+All races

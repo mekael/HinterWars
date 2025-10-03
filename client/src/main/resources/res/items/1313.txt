@@ -1,0 +1,14 @@
+50
+Dirty Shoes
+Boots
+0
+Armor|\N
+Leg
+7
+14
+0
+0
+0
+Defence: 2
+2
+Human

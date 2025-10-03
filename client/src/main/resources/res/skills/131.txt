@@ -1,0 +1,15 @@
+Staff Training
+1
+P|WPN|0|STAFF|STAFF|OT|N|EQ 1 1|N|ALL|&
+0
+2
+1
+Ability to use staffs as weapons (Free)
+50
+Combat Magic
+0
+0
+1
+0
+9
+-1

@@ -1,0 +1,14 @@
+99
+Accurate Elbow Gloves
+Gloves
+0
+Armor|\N
+Gloves
+9
+54
+0
+0
+0
+Defence: 7; Accuracy: 20 (N+)
+2
+Human

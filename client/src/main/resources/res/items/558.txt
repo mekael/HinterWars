@@ -1,0 +1,14 @@
+8
+Ring of Health
+Ring
+0
+Misc|null
+Ring1
+0
+8
+0
+0
+0
+HP +4
+2
+All races

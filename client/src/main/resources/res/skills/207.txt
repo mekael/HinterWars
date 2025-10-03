@@ -1,0 +1,15 @@
+Thorny Grasp
+1
+A|DMG|0|5 i -|CLAW|SF|N|EQ 1 1|N|ALL|&A|AP|5|0 3 -|CLAW|OM|N|EQ 1 1|Y|ALL|&
+5
+4
+13
+Does a small amount of damage and reduces target's AP for a short time
+77
+Claws Training
+4
+0
+0
+5
+1
+3

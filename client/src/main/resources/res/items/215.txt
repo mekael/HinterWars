@@ -1,0 +1,14 @@
+57
+Triple Stitched Boots of Health III
+Boots
+0
+Armor|null
+Leg
+0
+10
+0
+0
+0
+Defence +2;HP +3
+2
+Human

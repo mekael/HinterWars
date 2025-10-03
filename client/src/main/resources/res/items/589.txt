@@ -1,0 +1,14 @@
+16
+Major Health Potion
+Potion
+0
+Item|null
+Bag
+1
+14
+0
+0
+0
+HP +150
+2
+All races

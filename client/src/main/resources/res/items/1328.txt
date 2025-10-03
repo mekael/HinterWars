@@ -1,0 +1,14 @@
+51
+Old Wristband
+Gloves
+0
+Armor|\N
+Gloves
+5
+21
+0
+0
+0
+Defence: 2
+2
+Human

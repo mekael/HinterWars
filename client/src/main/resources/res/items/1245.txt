@@ -1,0 +1,14 @@
+12
+Alder Charm of Absorption
+Charm
+0
+Misc|\N
+Amulet
+1
+14
+0
+0
+0
+Energy: -2; Action Points: 1 (N+)
+2
+All races

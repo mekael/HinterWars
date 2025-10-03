@@ -1,0 +1,14 @@
+6
+Small Charm of Health
+Charm
+0
+Misc|null
+Amulet
+0
+6
+0
+0
+0
+HP +2
+2
+All races

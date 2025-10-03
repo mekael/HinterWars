@@ -1,0 +1,14 @@
+9
+Cursed Emerald Tailsman
+Charm
+0
+Misc|\N
+Amulet
+1
+44
+0
+0
+0
+HP: -40; Action Points: 2 (N+)
+2
+All races

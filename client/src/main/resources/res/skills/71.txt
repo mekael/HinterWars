@@ -1,0 +1,15 @@
+Desert Storm
+1
+A|AP|0|0 4 -|ANY|AL|N|EQ 1 1|N|ALL|&A|EN|0|0 30 -|ANY|AL|N|EQ 1 1|N|ALL|&
+0
+3
+58
+Depletes energy and AP of everyone on map (including friendlies)
+27
+Ultimate Skills
+40
+0
+1
+11
+8
+1

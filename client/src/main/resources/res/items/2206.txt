@@ -1,0 +1,14 @@
+150
+Terili Boots
+Boots
+0
+Armor|\N
+Leg
+25
+45
+0
+0
+0
+Defence: 12; AP: 4 (U+)
+2
+Brucian

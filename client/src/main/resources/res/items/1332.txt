@@ -1,0 +1,14 @@
+55
+Old Marksman Wristband
+Gloves
+0
+Armor|\N
+Gloves
+5
+21
+0
+0
+0
+Defence: 2; Accuracy: 8 (N+)
+2
+Human

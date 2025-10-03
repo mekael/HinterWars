@@ -1,0 +1,15 @@
+Sword Mastery
+2
+P|DMG|-1|6|SWORD|SF|N|EQ 1 1|N|ALL|&
+0
+3
+24
+Added damage when using Sword as a weapon attack
+46
+Sword Crafts
+0
+0
+0
+7
+9
+-1

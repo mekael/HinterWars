@@ -1,0 +1,14 @@
+147
+Good Iron Gloves of Pain
+Gloves
+0
+Armor|\N
+Gloves
+15
+51
+0
+0
+0
+Defence: 9; Damage: 12 (N+)
+2
+Brucian

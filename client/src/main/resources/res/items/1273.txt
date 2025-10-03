@@ -1,0 +1,14 @@
+14
+Mahogany Ring of Absorption
+Ring
+0
+Misc|\N
+Ring1
+1
+11
+0
+0
+0
+HP: 8; Energy: -3 (N+)
+2
+All races

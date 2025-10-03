@@ -1,0 +1,13 @@
+Welcome to<planet> young <race>.
+To use the services provided by each individual buildings, you have to move onto the special square just outside the door of the building. Then click on enter when a button pops up while you are standing on the square.
+
+The following are the services provided by each building :-
+Cafe - This is where you get all the quest/s that are available to you at any one time. You may speak to any NPC in there by double clicking on the portrait. In the case of the mobile client you will have to press OK button after navigating to the desired NPC portrait.
+HQ - You start you quest/s by entering this building and selecting your quest under the quest tab. You may also choose to go hunting in an explore area on the planet from here to become more powerful.
+Stadium - This is where you may choose to enter into a PvP match with another player or as a group.
+Hospital - You may choose to recharge your health and energy here faster by paying a small fee. Health and Energy canisters will also be available here for your purchase to be used within any quest/s.
+Merchant - You may buy better equipment to use here. Merchants will buy equipment at a lower value then they would be sold for. (some merchants will not be available at release)
+Arcade - This is where you may take a break from hunting by playing some board games with other players.
+
+To get you started on your first quest, please visit the cafe and speak to <name>
+Good luck, and enjoy your stay at the Xsidius system.

@@ -1,0 +1,14 @@
+151
+Chizen Gloves
+Gloves
+0
+Armor|\N
+Gloves
+15
+55
+0
+0
+0
+Defence: 11; Accuracy: 26 (U)
+2
+Brucian

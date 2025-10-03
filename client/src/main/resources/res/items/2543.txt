@@ -1,0 +1,14 @@
+94
+Guard's Resin Boots
+Boots
+0
+Armor|\N
+Leg
+13
+41
+0
+0
+0
+Defence: 8; AP: 3 (S)
+2
+Human

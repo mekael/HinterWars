@@ -1,0 +1,14 @@
+85
+Gloves of Violet Aura
+Gloves
+0
+Armor|\N
+Gloves
+7
+17
+0
+0
+0
+Defence: 2; Damage: 1 (S)
+2
+Brucian

@@ -1,0 +1,15 @@
+Magic Book Mastery
+2
+P|DMG|-1|2|BOOK|SF|N|EQ 1 1|N|ALL|&
+0
+2
+24
+Added accuracy when using books as a weapon attack
+49
+Support Magic
+0
+0
+0
+7
+9
+-1

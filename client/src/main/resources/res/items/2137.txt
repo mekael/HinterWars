@@ -1,0 +1,14 @@
+11
+Flawless Moonstone Ring
+Ring
+0
+Misc|\N
+Ring1
+1
+44
+0
+0
+0
+Energy: 9 (N+)
+2
+All races

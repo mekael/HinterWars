@@ -1,0 +1,14 @@
+84
+Antique Winged Sandals
+Boots
+0
+Armor|\N
+Leg
+15
+21
+0
+0
+0
+Defence: 3; Energy: 1; AP: 1; Accuracy: 1 (N+)
+2
+Brucian

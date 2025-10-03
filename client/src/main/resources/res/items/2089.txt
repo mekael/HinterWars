@@ -1,0 +1,14 @@
+12
+Oak Charm of Pain
+Charm
+0
+Misc|\N
+Amulet
+1
+17
+0
+0
+0
+Damage: 2;  (S)
+2
+All races

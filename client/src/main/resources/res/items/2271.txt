@@ -1,0 +1,14 @@
+142
+Sandals of the Meteor
+Boots
+0
+Armor|\N
+Leg
+15
+21
+0
+0
+0
+Defence: 3; Damage: 1; AP: 1 (S)
+2
+Brucian

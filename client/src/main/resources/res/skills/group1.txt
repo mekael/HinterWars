@@ -1,0 +1,25 @@
+Attack|92|1
+Battle Planning|1|2;3;4
+Company Valor|2|5;6;7
+First Aid|3|8;9;10
+Nuclear Strike|4|11
+Rapid Deployment|5|12;13;14
+Crippling Shot|6|15;16;17
+Frag Grenade|7|18;19;20
+Gun Training|8|21
+Gun Mastery|9|22;23;24
+Multi Shots|10|25;26;27
+Power Shot|11|28;29;30
+Smoke Grenade|12|31;32;33
+Snipe Shot|13|34;35;36
+EMF Burst|14|37;38;39
+Phosphorous Burst|15|40;41;42
+Bleeding Strike|16|43;44;45
+Crippling Strike|17|46;47;48
+Knife Training|18|49
+Knife Mastery|19|50;51;52
+Multi Strikes|20|53;54;55
+Power Strike|21|56;57;58
+Sneak Attack|22|59;60;61
+Unwavering|23|62;63;64
+Fist of a trillion llamas|4|255

@@ -1,0 +1,14 @@
+6
+Mahogany Charm
+Charm
+0
+Misc|\N
+Amulet
+1
+11
+0
+0
+0
+HP: 6 (N+)
+2
+All races

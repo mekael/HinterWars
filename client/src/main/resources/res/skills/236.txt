@@ -1,0 +1,15 @@
+Knuckles Mastery
+2
+P|DMG|-1|2|KNUCKLES|SF|N|EQ 1 1|N|ALL|&
+0
+4
+23
+Added accuracy when using knuckles as a weapon attack
+87
+Knuckles Training
+0
+0
+0
+7
+9
+-1

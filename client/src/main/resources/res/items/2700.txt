@@ -1,0 +1,14 @@
+111
+Marge Gloves
+Gloves
+0
+Armor|\N
+Gloves
+5
+35
+0
+0
+0
+Defence: 3; Damage: 7; Accuracy: 14 (U)
+2
+Taikuus

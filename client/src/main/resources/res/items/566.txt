@@ -1,0 +1,14 @@
+7
+Small Necklace of Minor Protection
+Necklace
+0
+Misc|null
+Neck
+0
+6
+0
+0
+0
+Defence +1
+2
+All races

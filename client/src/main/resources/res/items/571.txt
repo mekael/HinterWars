@@ -1,0 +1,14 @@
+4
+Necklace of Protection
+Necklace
+0
+Misc|null
+Neck
+0
+9
+0
+0
+0
+Defence +2
+2
+All races

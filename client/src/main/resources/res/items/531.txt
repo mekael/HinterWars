@@ -1,0 +1,14 @@
+65
+Light Cloth Gloves
+Gloves
+0
+Armor|null
+Gloves
+0
+6
+0
+0
+0
+HP +2
+2
+Taikuus

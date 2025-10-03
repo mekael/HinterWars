@@ -1,0 +1,15 @@
+Sword Training
+1
+P|WPN|0|SWORD|SWORD|SF|N|EQ 1 1|N|ALL|&
+0
+3
+1
+Allows character to use swords as weapons
+45
+Sword Crafts
+0
+0
+1
+0
+9
+-1

@@ -1,0 +1,14 @@
+10
+Cracked Necklace of health
+Necklace
+0
+Misc|\N
+Neck
+1
+4
+0
+0
+0
+HP: 2
+2
+All races

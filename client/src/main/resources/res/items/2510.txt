@@ -1,0 +1,14 @@
+91
+Torn Elbow Gloves of Pain
+Gloves
+0
+Armor|\N
+Gloves
+7
+41
+0
+0
+0
+Defence: 5; Damage: 7 (N+)
+2
+Human

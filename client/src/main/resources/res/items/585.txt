@@ -1,0 +1,14 @@
+20
+Light Health Potion
+Potion
+0
+Item|null
+Bag
+1
+1
+0
+0
+0
+HP +20
+2
+All races

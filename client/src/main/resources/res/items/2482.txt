@@ -1,0 +1,14 @@
+55
+Hinn Gloves
+Gloves
+0
+Armor|\N
+Gloves
+4
+14
+0
+0
+0
+Defence: 2; Damage: 4; Accuracy: 6 (U+)
+2
+Human

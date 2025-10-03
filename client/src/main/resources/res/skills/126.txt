@@ -1,0 +1,15 @@
+Chant of Ether
+1
+A|EN|0|0 30 -|ANY|AC|Y|EQ 1 1|N|ALL|&A|HP|0|150|ANY|AC|Y|EQ 1 1|N|ALL|&
+0
+2
+58
+Heals a tremendous amount of HP for all party members on the map; but at the same time decreases their energy substantially
+47
+Ultimate Skills
+25
+0
+1
+11
+6
+0

@@ -1,0 +1,14 @@
+70
+Dirty Shoes
+Boots
+0
+Armor|\N
+Leg
+3
+14
+0
+0
+0
+Defence: 2
+2
+Firan

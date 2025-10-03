@@ -1,0 +1,14 @@
+15
+Major En Canister
+Potion
+0
+Item|null
+Bag
+1
+45
+0
+0
+0
+Energy +150
+2
+All races

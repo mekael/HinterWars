@@ -1,0 +1,15 @@
+Ethereal Breath
+2
+A|EN|3|8|BOOK|OC|N|EQ 1 1|N|ALL|&
+4
+2
+30
+Recharges Energy over time
+91
+Support Magic
+34
+0
+0
+7
+2
+4

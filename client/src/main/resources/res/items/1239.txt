@@ -1,0 +1,14 @@
+3
+Torn Charm of accuracy
+Charm
+0
+Misc|\N
+Amulet
+1
+4
+0
+0
+0
+Accuracy: 2
+2
+All races

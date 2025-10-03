@@ -1,0 +1,14 @@
+13
+Wings of Dire Bats
+Necklace
+0
+Misc|\N
+Neck
+1
+47
+0
+0
+0
+HP: -15; Action Points: 2 (S)
+2
+All races

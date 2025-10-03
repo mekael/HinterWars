@@ -1,0 +1,14 @@
+146
+Old Slippers of Speed
+Boots
+0
+Armor|\N
+Leg
+25
+44
+0
+0
+0
+Defence: 10; AP: 2; Accuracy: 4 (N+)
+2
+Brucian

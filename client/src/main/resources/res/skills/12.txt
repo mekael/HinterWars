@@ -1,0 +1,15 @@
+Rapid Deployment
+1
+A|AP|-1|2|ANY|AC|Y|EQ 1 1|N|ALL|&
+0
+1
+17
+Increases all party members' AP
+5
+Leadership
+3
+0
+0
+5
+6
+0

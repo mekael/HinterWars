@@ -1,0 +1,14 @@
+81
+Dirty Gloves
+Gloves
+0
+Armor|\N
+Gloves
+6
+14
+0
+0
+0
+Defence: 1
+2
+Brucian

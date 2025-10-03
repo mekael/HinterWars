@@ -1,0 +1,15 @@
+Power Strike
+2
+A|DMG|0|10|KNIFE|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|KNIFE|OM|N|EQ 1 1|Y|ALL|&
+-1
+1
+24
+Adds damage to knives attack
+21
+Close Combat
+2
+0
+0
+7
+1
+3

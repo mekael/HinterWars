@@ -1,0 +1,14 @@
+7
+Necklace of the Moon
+Necklace
+0
+Misc|\N
+Neck
+1
+51
+0
+0
+0
+Energy: 9
+2
+All races

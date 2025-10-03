@@ -1,0 +1,14 @@
+110
+Suutor Boots
+Boots
+0
+Armor|\N
+Leg
+12
+47
+0
+0
+0
+Defence: 6; Energy: 5; AP: 2 (U)
+2
+Taikuus

@@ -1,0 +1,14 @@
+8
+Small Ring of Accuracy
+Ring
+0
+Misc|\N
+Ring1
+1
+1
+0
+0
+0
+Damage: -1; Accuracy: 4 (N+)
+2
+All races

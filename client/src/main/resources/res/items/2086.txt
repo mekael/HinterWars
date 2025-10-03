@@ -1,0 +1,14 @@
+12
+The Holy Charm
+Charm
+0
+Misc|\N
+Amulet
+1
+4
+0
+0
+0
+HP: 15;  (S)
+2
+All races

@@ -1,0 +1,14 @@
+146
+Good Slippers
+Boots
+0
+Armor|\N
+Leg
+29
+51
+0
+0
+0
+Defence: 13
+2
+Brucian

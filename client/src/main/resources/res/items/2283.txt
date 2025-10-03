@@ -1,0 +1,14 @@
+143
+Fibre Gloves
+Gloves
+0
+Armor|\N
+Gloves
+8
+26
+0
+0
+0
+Defence: 3; Damage: 5; Accuracy: 10 (U+)
+2
+Brucian

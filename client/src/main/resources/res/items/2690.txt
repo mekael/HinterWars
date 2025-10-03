@@ -1,0 +1,14 @@
+110
+Voodoo's Socks
+Boots
+0
+Armor|\N
+Leg
+11
+41
+0
+0
+0
+Defence: 5; HP: 5; AP: 2 (S)
+2
+Taikuus

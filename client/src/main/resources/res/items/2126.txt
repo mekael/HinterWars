@@ -1,0 +1,14 @@
+8
+Ring of Mist
+Ring
+0
+Misc|\N
+Ring1
+1
+34
+0
+0
+0
+Energy: 5
+2
+All races

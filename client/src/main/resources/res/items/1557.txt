@@ -1,0 +1,14 @@
+8
+Charred Cocobolo Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+11
+0
+0
+0
+HP: 4; Energy: 1
+2
+All races

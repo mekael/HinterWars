@@ -1,0 +1,14 @@
+99
+Good Elbow Gloves of Pain
+Gloves
+0
+Armor|\N
+Gloves
+8
+51
+0
+0
+0
+Defence: 7; Damage: 12 (N+)
+2
+Human

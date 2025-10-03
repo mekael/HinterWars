@@ -1,0 +1,15 @@
+Electric Shot
+2
+A|EN|4|0 12 -|STAFF|OM|N|EQ 1 1|N|ALL|&
+4
+2
+33
+Saps a small amount of energy from target over a period of time
+60
+Combat Magic
+12
+0
+0
+8
+1
+1

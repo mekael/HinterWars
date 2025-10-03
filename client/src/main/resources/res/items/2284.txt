@@ -1,0 +1,14 @@
+143
+Rinx Gauntlets
+Gloves
+0
+Armor|\N
+Gloves
+11
+35
+0
+0
+0
+Defence: 5; Damage: 3; Accuracy: 20 (U+)
+2
+Brucian

@@ -1,0 +1,14 @@
+91
+Smart Wristband
+Gloves
+0
+Armor|\N
+Gloves
+6
+37
+0
+0
+0
+Defence: 4
+2
+Human

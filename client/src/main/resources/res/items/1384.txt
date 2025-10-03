@@ -1,0 +1,14 @@
+75
+Stained Hawk Gloves
+Gloves
+0
+Armor|\N
+Gloves
+2
+14
+0
+0
+0
+Defence: 1; Damage: 2; Accuracy: 4 (N+)
+2
+Firan

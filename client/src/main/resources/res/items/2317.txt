@@ -1,0 +1,14 @@
+134
+Nikko's Sheath
+Boots
+0
+Armor|\N
+Leg
+5
+57
+0
+0
+0
+Defence: 11; Damage: 1; AP: 3 (S)
+2
+Firan

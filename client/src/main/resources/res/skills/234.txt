@@ -1,0 +1,15 @@
+Knuckles Training
+1
+P|WPN|0|KNUCKLES|KNUCKLES|SF|N|EQ 1 1|N|ALL|&
+0
+4
+1
+Ability to use knuckles as weapons (Free)
+86
+Knuckles Training
+0
+0
+1
+0
+9
+-1

@@ -1,0 +1,14 @@
+154
+Unrefined Pearl Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+44
+0
+0
+0
+HP: 8; Energy: 4
+2
+All races

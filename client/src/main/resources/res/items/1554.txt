@@ -1,0 +1,14 @@
+8
+Cracked Bangle of Vibes
+Bangle
+0
+Misc|\N
+Bangle
+1
+1
+0
+0
+0
+HP: 1; Energy: 1
+2
+All races

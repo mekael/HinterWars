@@ -1,0 +1,15 @@
+Double Strike
+1
+A|AS|0|2 i -|KNUCKLES|SF|N|EQ 1 1|N|ALL|&A|DMG|0|0 i 9 * 20 / -|KNUCKLES|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|KNUCKLES|OM|N|EQ 1 1|Y|ALL|&
+-1
+4
+6
+Strike the target two times at 55% of weapon damage each.
+84
+Knuckles Training
+2
+0
+0
+3
+1
+3

@@ -1,0 +1,14 @@
+99
+Flawless Elbow Gloves
+Gloves
+0
+Armor|\N
+Gloves
+9
+57
+0
+0
+0
+Defence: 7
+2
+Human

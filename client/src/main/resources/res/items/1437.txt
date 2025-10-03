@@ -1,0 +1,14 @@
+64
+Scorched ravage Leggings
+Boots
+0
+Armor|\N
+Leg
+4
+7
+0
+0
+0
+Defence: 1; Damage: 1 (N+)
+2
+Taikuus

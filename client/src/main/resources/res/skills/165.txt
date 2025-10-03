@@ -1,0 +1,15 @@
+Energy Bolt
+2
+A|HP|0|0 22 -|BOOK|OM|N|EQ 1 1|N|ALL|&
+4
+2
+25
+Does ranged damage with book equipped.
+62
+Support Magic
+8
+0
+0
+7
+1
+2

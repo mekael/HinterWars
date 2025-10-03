@@ -1,0 +1,14 @@
+9
+Silver Charm
+Charm
+0
+Misc|\N
+Amulet
+1
+27
+0
+0
+0
+Energy: 4
+2
+All races

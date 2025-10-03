@@ -1,0 +1,14 @@
+126
+Ii Tail-Pants
+Boots
+0
+Armor|\N
+Leg
+4
+27
+0
+0
+0
+Defence: 4; AP: 1 (S)
+2
+Firan

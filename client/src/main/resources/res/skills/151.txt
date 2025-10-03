@@ -1,0 +1,15 @@
+Ethereal Mantle
+3
+A|MaxHP|9|70|BOOK|OC|Y|EQ 1 1|N|BIO|&
+4
+2
+58
+Increase maximum HP of all biological party members within targeted area for 10 rounds
+57
+Support Magic & Origin Specific Skills
+40
+2
+1
+11
+4
+0

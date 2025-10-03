@@ -1,0 +1,14 @@
+138
+Smart Sandals
+Boots
+0
+Armor|\N
+Leg
+22
+37
+0
+0
+0
+Defence: 6
+2
+Brucian

@@ -1,0 +1,14 @@
+80
+Fastened Sandals
+Boots
+0
+Armor|\N
+Leg
+16
+24
+0
+0
+0
+Defence: 3
+2
+Brucian

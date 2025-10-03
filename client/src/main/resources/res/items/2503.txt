@@ -1,0 +1,14 @@
+90
+Cloth Boots
+Boots
+0
+Armor|\N
+Leg
+12
+34
+0
+0
+0
+Defence: 6
+2
+Human

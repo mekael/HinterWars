@@ -1,0 +1,14 @@
+11
+Cursed Ring of Phoniex
+Ring
+0
+Misc|\N
+Ring1
+1
+51
+0
+0
+0
+HP: -40; Accuracy: 16 (N+)
+2
+All races

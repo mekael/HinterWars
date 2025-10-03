@@ -1,0 +1,14 @@
+13
+Cursed Necklace of Rhenium
+Necklace
+0
+Misc|\N
+Neck
+1
+27
+0
+0
+0
+Armour: -2; Energy: 8;  (S)
+2
+All races

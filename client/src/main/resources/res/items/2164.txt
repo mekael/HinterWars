@@ -1,0 +1,14 @@
+146
+Good Slippers of Speed
+Boots
+0
+Armor|\N
+Leg
+29
+51
+0
+0
+0
+Defence: 14; Energy: 6; AP: 2 (N+)
+2
+Brucian

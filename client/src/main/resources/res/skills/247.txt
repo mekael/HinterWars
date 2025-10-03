@@ -1,0 +1,15 @@
+Mob self heal
+3
+A|HP|0|60|BOOK|OC|N|EQ 1 1|N|ALL|&
+4
+5
+1
+Heal some HP on target
+55
+Support Magic
+0
+0
+1
+0
+2
+0

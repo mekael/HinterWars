@@ -1,0 +1,15 @@
+Lightning Storm
+2
+A|HP|0|0 22 -|STAFF|OM|N|EQ 1 1|N|ALL|&
+4
+2
+37
+Does AOE damage to all characters in the targeted area
+67
+Combat Magic
+12
+2
+0
+8
+7
+2

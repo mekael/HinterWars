@@ -1,0 +1,14 @@
+94
+Warrior's Boots
+Boots
+0
+Armor|\N
+Leg
+12
+37
+0
+0
+0
+Defence: 7; HP: 4; AP: 2 (S)
+2
+Human

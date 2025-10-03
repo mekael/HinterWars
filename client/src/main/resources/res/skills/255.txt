@@ -1,0 +1,15 @@
+Fist of a trillion llamas
+1
+A|HP|0|0 9999 -|ANY|AM|N|EQ 1 1|N|ALL|&
+0
+1|2|3|4
+1
+Yes we know llamas do not have fists
+4
+Ultimate GM skill
+1
+0
+1
+3
+5
+-1

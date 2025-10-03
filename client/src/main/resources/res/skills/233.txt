@@ -1,0 +1,15 @@
+Ethereal Blow
+3
+A|DMG|0|25|KNUCKLES|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|KNUCKLES|OM|N|EQ 1 1|Y|MAG|&
+-1
+4
+60
+Deals large damage to magical foe
+85
+Knuckles Training & Origin Specific Skil
+4
+0
+1
+11
+1
+2

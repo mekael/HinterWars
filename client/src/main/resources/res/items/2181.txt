@@ -1,0 +1,14 @@
+147
+Flawless Iron Gloves
+Gloves
+0
+Armor|\N
+Gloves
+16
+57
+0
+0
+0
+Defence: 11
+2
+Brucian

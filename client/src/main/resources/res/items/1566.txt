@@ -1,0 +1,14 @@
+11
+Rich Cocobolo Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+14
+0
+0
+0
+HP: 3; Energy: 2 (N+)
+2
+All races

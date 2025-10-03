@@ -1,0 +1,14 @@
+146
+Torn Slippers of Speed
+Boots
+0
+Armor|\N
+Leg
+24
+41
+0
+0
+0
+Defence: 8; AP: 1 (N+)
+2
+Brucian

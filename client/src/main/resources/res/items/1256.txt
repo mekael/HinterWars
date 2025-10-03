@@ -1,0 +1,14 @@
+4
+Cracked Necklace of accuracy
+Necklace
+0
+Misc|\N
+Neck
+1
+7
+0
+0
+0
+Accuracy: 2
+2
+All races

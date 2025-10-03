@@ -1,0 +1,14 @@
+8
+Polished Silver Ring
+Ring
+0
+Misc|\N
+Ring1
+1
+24
+0
+0
+0
+Energy: 6 (N+)
+2
+All races

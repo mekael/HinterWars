@@ -1,0 +1,14 @@
+78
+Double Stitched Canvas Gloves of Health II
+Gloves
+0
+Armor|null
+Gloves
+0
+7
+0
+0
+0
+Defence +1;HP +2
+2
+Firan

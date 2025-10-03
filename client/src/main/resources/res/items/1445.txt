@@ -1,0 +1,14 @@
+64
+Worn Hasty Leggings
+Boots
+0
+Armor|\N
+Leg
+5
+11
+0
+0
+0
+Defence: 2; AP: 1 (N+)
+2
+Taikuus

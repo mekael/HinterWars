@@ -1,0 +1,14 @@
+13
+Light Necklace of Health
+Necklace
+0
+Misc|\N
+Neck
+1
+4
+0
+0
+0
+HP: 4 (N+)
+2
+All races

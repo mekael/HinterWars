@@ -1,0 +1,14 @@
+94
+Captain's Boots
+Boots
+0
+Armor|\N
+Leg
+11
+27
+0
+0
+0
+Defence: 4; Energy: 5; AP: 1 (S)
+2
+Human

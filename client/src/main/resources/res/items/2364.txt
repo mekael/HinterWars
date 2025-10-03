@@ -1,0 +1,14 @@
+122
+Light Tail-Pants
+Boots
+0
+Armor|\N
+Leg
+4
+37
+0
+0
+0
+Defence: 6
+2
+Firan

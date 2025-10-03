@@ -1,0 +1,15 @@
+Sapping Blow
+1
+A|DMG|0|7|KNUCKLES|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|KNUCKLES|OM|N|EQ 1 1|Y|ALL|&A|EN|0|0 3 -|KNUCKLES|OM|N|EQ 1 1|N|ALL|&
+-1
+4
+12
+Does minor damage and reduces energy of target
+90
+Knuckles Training
+3
+0
+0
+5
+1
+3

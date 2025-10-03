@@ -1,0 +1,14 @@
+156
+Bangle from a Zombie
+Bangle
+0
+Misc|\N
+Bangle
+1
+11
+0
+0
+0
+HP: 10; Energy: 10; Accuracy: -4;  (S)
+2
+All races

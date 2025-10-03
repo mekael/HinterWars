@@ -1,0 +1,14 @@
+74
+Firan Triple Stitched Boots
+Boots
+0
+Armor|null
+Leg
+1
+8
+0
+0
+0
+Defence +2
+2
+Firan

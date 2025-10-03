@@ -1,0 +1,14 @@
+111
+Voodoo's Silk Mittens
+Gloves
+0
+Armor|\N
+Gloves
+6
+41
+0
+0
+0
+Defence: 4; Damage: 7; Accuracy: 4 (S)
+2
+Taikuus

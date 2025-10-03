@@ -1,0 +1,14 @@
+80
+Stitched Shoes
+Boots
+0
+Armor|\N
+Leg
+13
+17
+0
+0
+0
+Defence: 2
+2
+Brucian

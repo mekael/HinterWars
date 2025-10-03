@@ -1,0 +1,14 @@
+70
+Clawhide Boots
+Boots
+0
+Armor|null
+Leg
+2
+9
+0
+0
+0
+Defence +2
+2
+Firan

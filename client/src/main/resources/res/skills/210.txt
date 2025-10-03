@@ -1,0 +1,15 @@
+Power Claws
+1
+A|DMG|0|4|CLAW|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|CLAW|OM|N|EQ 1 1|Y|ALL|&
+-1
+4
+5
+Does more damage then a regular claw attack
+78
+Claws Training
+1
+0
+0
+3
+1
+3

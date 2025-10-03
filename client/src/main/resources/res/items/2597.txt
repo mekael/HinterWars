@@ -1,0 +1,14 @@
+118
+Devil's Socks
+Boots
+0
+Armor|\N
+Leg
+14
+57
+0
+0
+0
+Defence: 7.2; Energy: 15; AP: 5 (S)
+2
+Taikuus

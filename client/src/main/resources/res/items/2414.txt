@@ -1,0 +1,14 @@
+127
+Kaze's Gold Bracers
+Gloves
+0
+Armor|\N
+Gloves
+3
+41
+0
+0
+0
+Defence: 5; Damage: 2; Accuracy: 16 (S)
+2
+Firan

@@ -1,0 +1,14 @@
+122
+Cloth Tail-Pants
+Boots
+0
+Armor|\N
+Leg
+4
+34
+0
+0
+0
+Defence: 6
+2
+Firan

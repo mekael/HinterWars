@@ -1,0 +1,15 @@
+Power Shot
+1
+A|DMG|0|5|GUN|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|GUN|OM|N|EQ 1 1|Y|ALL|&
+-1
+1
+5
+Adds bonus damage to gun attacks
+11
+Gunnery
+1
+0
+0
+3
+1
+3

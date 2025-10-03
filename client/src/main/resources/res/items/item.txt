@@ -1,0 +1,21 @@
+graphic id
+itemName
+itemType
+range(tiles)
+itemClass(weapon, clothes, item)
+bodySlot(head, neck, torso, ring, glove, hand, legs)
+inv_slot(space taken up in inventory)
+required level
+required energy
+accuracy
+itemArea(tiles - affected area)
+description
+target
+x offset
+y offset
+maxStates,maxFrames
+images
+weapon type	(1 hand class 1 weapon (sword)	-> 0)
+		(1 hand class 2 weapon (gun)	-> 1)
+		(2 hand class 1 weapon (sword)	-> 2)
+		(2 hand class 2 weapon (gun)	-> 3)

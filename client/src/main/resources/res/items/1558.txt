@@ -1,0 +1,14 @@
+8
+Small Cocobolo Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+14
+0
+0
+0
+HP: 2; Energy: 2
+2
+All races

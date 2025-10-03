@@ -1,0 +1,1 @@
+This is a test to see if using the Esc Sq will fail the quest

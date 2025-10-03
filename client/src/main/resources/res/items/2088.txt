@@ -1,0 +1,14 @@
+12
+Charm from a Dead Warrior
+Charm
+0
+Misc|\N
+Amulet
+1
+11
+0
+0
+0
+HP: 10;  (S)
+2
+All races

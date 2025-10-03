@@ -1,0 +1,14 @@
+127
+Kelv Gauntlet
+Gloves
+0
+Armor|\N
+Gloves
+2
+27
+0
+0
+0
+Defence: 3; Damage: 6; Accuracy: 4 (U+)
+2
+Firan

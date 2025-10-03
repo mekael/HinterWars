@@ -1,0 +1,14 @@
+11
+Mahogany Ring
+Ring
+0
+Misc|\N
+Ring1
+1
+17
+0
+0
+0
+HP: 6
+2
+All races

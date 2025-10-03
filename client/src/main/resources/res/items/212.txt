@@ -1,0 +1,14 @@
+58
+Triple Stitched Gloves of Health I
+Gloves
+0
+Armor|null
+Gloves
+0
+8
+0
+0
+0
+Defence +2;HP +1
+2
+Human

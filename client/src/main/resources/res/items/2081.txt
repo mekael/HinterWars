@@ -1,0 +1,14 @@
+9
+Cursed Charm of Tornado
+Charm
+0
+Misc|\N
+Amulet
+1
+34
+0
+0
+0
+Damage: -4; Action Points: 2 (N+)
+2
+All races

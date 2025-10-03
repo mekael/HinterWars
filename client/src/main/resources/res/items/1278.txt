@@ -1,0 +1,14 @@
+8
+Cursed Nickel Ring
+Ring
+0
+Misc|\N
+Ring1
+1
+21
+0
+0
+0
+HP: -20; Accuracy: 12 (N+)
+2
+All races

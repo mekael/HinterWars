@@ -1,0 +1,14 @@
+139
+Hand-Sewed Gauntlet
+Gloves
+0
+Armor|\N
+Gloves
+10
+31
+0
+0
+0
+Defence: 3
+2
+Brucian

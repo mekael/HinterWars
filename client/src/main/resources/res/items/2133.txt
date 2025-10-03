@@ -1,0 +1,14 @@
+8
+Perfect Ring of Life
+Ring
+0
+Misc|\N
+Ring1
+1
+57
+0
+0
+0
+HP: 38
+2
+All races

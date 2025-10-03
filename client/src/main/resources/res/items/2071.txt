@@ -1,0 +1,14 @@
+6
+Minor Charm of Blood
+Charm
+0
+Misc|\N
+Amulet
+1
+31
+0
+0
+0
+HP: 14
+2
+All races

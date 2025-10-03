@@ -1,0 +1,14 @@
+126
+Raer Tail-Pants
+Boots
+0
+Armor|\N
+Leg
+4
+37
+0
+0
+0
+Defence: 6; AP: 2 (U)
+2
+Firan

@@ -1,0 +1,14 @@
+60
+Durable Stockings
+Boots
+0
+Armor|\N
+Leg
+8
+27
+0
+0
+0
+Defence: 3
+2
+Taikuus

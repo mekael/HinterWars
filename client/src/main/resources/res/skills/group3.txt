@@ -1,0 +1,25 @@
+Attack|92|1
+Bow Training|24|65
+Bow Mastery|25|66;67;68
+Concentrate|26|69;70
+Desert Storm|27|71
+Evade|28|72;73;74
+Focus|29|75;76
+Frenzy|30|77;78;79
+Hail of Arrows|31|80;81;82
+Hail of Slash|32|83;84;85
+Heavy Arrow|33|86;87;88
+Keen Arrow|34|89;90;91
+Keen Eyes|35|92;93;94
+Lacerate|36|95;96;97
+Lightning Slash|37|98;99;100
+Lightning Strike|38|101;102;103
+Mystic Arrow|39|104;105;106
+Poison Arrow|40|107;108;109
+Power Slash|41|110;111;112
+Shock Arrow|42|113;114;115
+Steel Arrow|43|116;117;118
+Swift|44|119;120;121
+Sword Training|45|122
+Sword Mastery|46|123;124;125
+Fist of a trillion llamas|4|255

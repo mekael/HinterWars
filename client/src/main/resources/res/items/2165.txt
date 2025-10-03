@@ -1,0 +1,14 @@
+146
+Slippers of the Wind
+Boots
+0
+Armor|\N
+Leg
+30
+54
+0
+0
+0
+Defence: 16; AP: 3 (N+)
+2
+Brucian

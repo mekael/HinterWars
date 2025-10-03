@@ -1,0 +1,15 @@
+Ethereal Storm
+1
+A|HP|0|0 20 -|STAFF|OM|N|EQ 1 1|N|MAG|&
+4
+2
+20
+Deals high damages to magical foes within targeted area
+63
+Combat Magic & Origin Specific Skills
+3
+2
+0
+5
+3
+2

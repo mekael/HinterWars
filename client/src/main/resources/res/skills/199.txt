@@ -1,0 +1,15 @@
+Final Blow
+3
+A|DMG|7|70|ANY|SF|N|EQ 1 1|N|ALL|&
+0
+4
+54
+User increases attack power tremendously for a limited time
+73
+Nature's Might
+20
+0
+1
+11
+9
+0

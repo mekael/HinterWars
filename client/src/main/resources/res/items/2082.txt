@@ -1,0 +1,14 @@
+9
+Refined Garnet Charm
+Charm
+0
+Misc|\N
+Amulet
+1
+41
+0
+0
+0
+HP: 23 (N+)
+2
+All races

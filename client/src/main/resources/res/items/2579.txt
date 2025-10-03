@@ -1,0 +1,14 @@
+114
+Good Socks
+Boots
+0
+Armor|\N
+Leg
+13
+51
+0
+0
+0
+Defence: 6
+2
+Taikuus

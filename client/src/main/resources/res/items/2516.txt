@@ -1,0 +1,14 @@
+91
+Old Elbow Gloves
+Gloves
+0
+Armor|\N
+Gloves
+7
+44
+0
+0
+0
+Defence: 5
+2
+Human

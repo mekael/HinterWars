@@ -1,0 +1,14 @@
+153
+Flirex's Friendship Band
+Bangle
+0
+Misc|\N
+Bangle
+1
+41
+0
+0
+0
+HP: 2; Energy: 10; Action Points: 3 (S)
+2
+All races

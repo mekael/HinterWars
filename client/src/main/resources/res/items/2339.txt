@@ -1,0 +1,14 @@
+75
+Samurai's Gloves
+Gloves
+0
+Armor|\N
+Gloves
+1
+7
+0
+0
+0
+Defence: 1; Accuracy: 4 (S)
+2
+Firan

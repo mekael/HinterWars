@@ -1,0 +1,14 @@
+106
+Tailored Vigor Stockings
+Boots
+0
+Armor|\N
+Leg
+9
+31
+0
+0
+0
+Defence: 4; HP: 2; Energy: 2 (N+)
+2
+Taikuus

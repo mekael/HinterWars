@@ -1,0 +1,15 @@
+Ethereal Spring
+2
+A|EN|0|10|BOOK|OC|N|EQ 1 1|N|ALL|&
+4
+2
+35
+Heals energy of party members within the targeted area
+58
+Support Magic
+14
+2
+0
+8
+4
+0

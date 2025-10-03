@@ -1,0 +1,14 @@
+74
+Genki Na Kilt
+Boots
+0
+Armor|\N
+Leg
+3
+11
+0
+0
+0
+Defence: 2; HP: 5 (S)
+2
+Firan

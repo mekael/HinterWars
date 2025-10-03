@@ -1,0 +1,14 @@
+155
+Pure Pearl Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+44
+0
+0
+0
+HP: 10; Energy: 5 (N+)
+2
+All races

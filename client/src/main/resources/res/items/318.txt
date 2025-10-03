@@ -1,0 +1,14 @@
+69
+Canvas Clothes
+Armour
+0
+Armor|null
+Torso
+1
+1
+0
+0
+0
+No effect
+2
+Firan

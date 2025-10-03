@@ -1,0 +1,14 @@
+9
+Cursed Ring of the Beast
+Charm
+0
+Misc|\N
+Amulet
+1
+54
+0
+0
+0
+Damage: 8; Energy: -22 (N+)
+2
+All races

@@ -1,0 +1,14 @@
+12
+Charm of Lesser Health
+Charm
+0
+Misc|\N
+Amulet
+1
+21
+0
+0
+0
+HP: -50; Energy: 25;  (S)
+2
+All races

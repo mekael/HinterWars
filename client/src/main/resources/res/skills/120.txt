@@ -1,0 +1,15 @@
+Swift
+2
+A|AP|3|3|ANY|SF|N|EQ 1 1|N|ALL|&
+0
+3
+38
+Increases AP of user for a limited time
+44
+Warrior Crafts
+3
+0
+0
+8
+9
+0

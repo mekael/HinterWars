@@ -1,0 +1,14 @@
+14
+Cursed Ring of rhenium
+Ring
+0
+Misc|\N
+Ring1
+1
+27
+0
+0
+0
+HP: -10; Energy: 8;  (S)
+2
+All races

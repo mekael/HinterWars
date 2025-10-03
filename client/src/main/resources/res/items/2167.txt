@@ -1,0 +1,14 @@
+146
+Old Slippers
+Boots
+0
+Armor|\N
+Leg
+25
+44
+0
+0
+0
+Defence: 9
+2
+Brucian

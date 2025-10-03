@@ -1,0 +1,15 @@
+EMF Burst
+1
+A|DMG|0|60 i -|GUN|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|GUN|OM|N|EQ 1 1|Y|MEC|&
+4
+1
+39
+Deals high damages to mechanical foes in targeted area
+14
+Gunnery & Origins Specific Skills
+12
+1
+0
+8
+3
+3

@@ -1,0 +1,14 @@
+11
+Ring of Hawk
+Ring
+0
+Misc|null
+Ring1
+0
+8
+0
+0
+0
+Accuracy +3
+2
+All races

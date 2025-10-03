@@ -1,0 +1,14 @@
+154
+Small Pearl Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+47
+0
+0
+0
+HP: 9; Energy: 5
+2
+All races

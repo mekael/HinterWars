@@ -1,0 +1,15 @@
+Smoke Grenade
+3
+A|ACC|0|0 12 -|GUN|OT|Y|EQ 1 1|N|ALL|&
+4
+1
+45
+Lowers accuracy of foes and party within targeted area
+12
+Gunnery
+7
+2
+1
+10
+7
+1

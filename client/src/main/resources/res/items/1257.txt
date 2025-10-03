@@ -1,0 +1,14 @@
+4
+Charred Ebony Necklace
+Necklace
+0
+Misc|\N
+Neck
+1
+11
+0
+0
+0
+Energy: 2
+2
+All races

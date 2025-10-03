@@ -1,0 +1,15 @@
+Speed Boost
+2
+A|AP|4|2|BOOK|OC|N|EQ 1 1|N|ALL|&
+4
+2
+32
+Increases target's AP for a very short time
+56
+Support Magic
+10
+0
+0
+8
+2
+0

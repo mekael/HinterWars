@@ -1,0 +1,14 @@
+98
+Quality Resin Boots
+Boots
+0
+Armor|\N
+Leg
+17
+54
+0
+0
+0
+Defence: 10
+2
+Human

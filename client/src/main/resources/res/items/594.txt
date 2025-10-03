@@ -1,0 +1,14 @@
+17
+Med En Canister
+Potion
+0
+Item|null
+Bag
+1
+1
+0
+0
+0
+Energy +50
+2
+All races

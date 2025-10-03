@@ -1,0 +1,14 @@
+12
+Small Charm of Minor Rage
+Charm
+0
+Misc|null
+Amulet
+0
+9
+0
+0
+0
+Damage +1
+2
+All races

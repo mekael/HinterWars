@@ -1,0 +1,14 @@
+16
+Heavy Health Potion
+Potion
+0
+Item|null
+Bag
+1
+20
+0
+0
+0
+HP +200
+2
+All races

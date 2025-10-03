@@ -1,0 +1,14 @@
+106
+Torn Socks of Speed
+Boots
+0
+Armor|\N
+Leg
+11
+41
+0
+0
+0
+Defence: 5 (N+)
+2
+Taikuus

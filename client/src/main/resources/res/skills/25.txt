@@ -1,0 +1,15 @@
+Multi Shots
+1
+A|DMG|0|12 i -|GUN|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|GUN|OM|N|EQ 1 1|Y|ALL|&
+-1
+1
+18
+Deals damage to foes within targeted area
+10
+Gunnery
+11
+1
+0
+5
+3
+3

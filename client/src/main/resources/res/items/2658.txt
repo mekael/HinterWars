@@ -1,0 +1,14 @@
+106
+Old Socks
+Boots
+0
+Armor|\N
+Leg
+12
+44
+0
+0
+0
+Defence: 5
+2
+Taikuus

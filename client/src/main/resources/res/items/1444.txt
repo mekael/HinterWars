@@ -1,0 +1,14 @@
+65
+Worn Targeting Gloves
+Gloves
+0
+Armor|\N
+Gloves
+3
+11
+0
+0
+0
+Defence: 1; Damage: 1; Accuracy: 2 (N+)
+2
+Taikuus

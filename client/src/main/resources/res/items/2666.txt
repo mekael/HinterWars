@@ -1,0 +1,14 @@
+107
+Smart Mittens
+Gloves
+0
+Armor|\N
+Gloves
+5
+37
+0
+0
+0
+Defence: 3
+2
+Taikuus

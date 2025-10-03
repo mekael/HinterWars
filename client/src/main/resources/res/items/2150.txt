@@ -1,0 +1,14 @@
+14
+Circle of Life
+Ring
+0
+Misc|\N
+Ring1
+1
+51
+0
+0
+0
+HP: 75; Accuracy: -12 (S)
+2
+All races

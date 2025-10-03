@@ -1,0 +1,15 @@
+Company Valor
+2
+A|DMG|-1|8|ANY|AC|Y|EQ 1 1|N|ALL|&
+0
+1
+34
+Increases all party members' attack damages
+2
+Leadership
+16
+0
+0
+8
+6
+0

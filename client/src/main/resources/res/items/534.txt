@@ -1,0 +1,14 @@
+67
+Double Stitched Cloth Boots of Health I
+Boots
+0
+Armor|null
+Leg
+0
+7
+0
+0
+0
+Defence +1;HP +1
+2
+Taikuus

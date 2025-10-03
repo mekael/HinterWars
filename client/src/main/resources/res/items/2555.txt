@@ -1,0 +1,14 @@
+95
+Commando's Elbow Gloves
+Gloves
+0
+Armor|\N
+Gloves
+8
+47
+0
+0
+0
+Defence: 6; Damage: 2; Accuracy: 18 (S)
+2
+Human

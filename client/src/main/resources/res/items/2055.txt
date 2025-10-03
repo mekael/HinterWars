@@ -1,0 +1,14 @@
+155
+Refined Pearl Bangle
+Bangle
+0
+Misc|\N
+Bangle
+1
+41
+0
+0
+0
+HP: 9; Energy: 5 (N+)
+2
+All races

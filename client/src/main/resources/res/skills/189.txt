@@ -1,0 +1,15 @@
+Claws Mastery
+2
+P|DMG|-1|2|CLAW|SF|N|EQ 1 1|N|ALL|&
+0
+4
+22
+Added damage when using claws as a weapon attack
+70
+Claws Training
+0
+0
+0
+7
+9
+-1

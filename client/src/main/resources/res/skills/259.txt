@@ -1,0 +1,15 @@
+Mob Melee
+1
+A|HP|0|0|ANY|OT|N|EQ 1 1|Y|ALL|&
+1
+5
+1
+Mob melee attack on the target
+92
+Common
+0
+0
+1
+0
+1
+3

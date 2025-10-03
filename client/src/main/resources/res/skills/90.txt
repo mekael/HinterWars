@@ -1,0 +1,15 @@
+Keen Arrow
+2
+A|ACC|0|12|BOW|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|BOW|OM|N|EQ 1 1|Y|ALL|&
+-1
+3
+27
+Highly accurate attack
+34
+Bow Crafts
+3
+0
+0
+7
+1
+3

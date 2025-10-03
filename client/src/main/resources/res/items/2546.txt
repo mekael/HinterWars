@@ -1,0 +1,14 @@
+94
+Anil Boots
+Boots
+0
+Armor|\N
+Leg
+14
+47
+0
+0
+0
+Defence: 8; AP: 2; Accuracy: 7 (U)
+2
+Human

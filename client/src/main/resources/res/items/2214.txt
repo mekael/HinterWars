@@ -1,0 +1,14 @@
+151
+Terili Gloves
+Gloves
+0
+Armor|\N
+Gloves
+13
+44
+0
+0
+0
+Defence: 9; Damage: 10; Accuracy: 15 (U+)
+2
+Brucian

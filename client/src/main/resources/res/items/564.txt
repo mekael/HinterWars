@@ -1,0 +1,14 @@
+7
+Small Necklace of Accuracy
+Necklace
+0
+Misc|null
+Neck
+0
+6
+0
+0
+0
+Accuracy +1
+2
+All races

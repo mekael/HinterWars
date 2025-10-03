@@ -1,0 +1,15 @@
+Tough
+3
+P|MaxHP|-1|60|ANY|SF|N|EQ 1 1|N|ALL|&
+0
+4
+45
+Permanently increase MaxHP
+75
+Nature's Might
+0
+0
+1
+10
+9
+0

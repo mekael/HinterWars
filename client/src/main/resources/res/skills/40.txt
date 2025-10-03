@@ -1,0 +1,15 @@
+Phosphorous Burst
+1
+A|DMG|0|52 i -|GUN|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|GUN|OM|N|EQ 1 1|Y|BIO|&
+4
+1
+35
+Deals high damage to biological targets in targeted area
+15
+Gunnery & Origins Specific Skills
+10
+1
+0
+8
+3
+3

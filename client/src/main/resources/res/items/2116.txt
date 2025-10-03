@@ -1,0 +1,14 @@
+13
+WindOak Necklace
+Necklace
+0
+Misc|\N
+Neck
+1
+17
+0
+0
+0
+Damage: 2; Accuracy: 4;  (S)
+2
+All races

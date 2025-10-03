@@ -1,0 +1,13 @@
+earth.bmp
+11
+grass|30
+grass|34
+grass|39
+grass|45
+grass|52
+grass|57
+grass|102
+grass|113
+grass|124
+grass|132
+grass|133

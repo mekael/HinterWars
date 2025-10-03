@@ -1,0 +1,15 @@
+Sneak Attack
+2
+A|ACC|0|30|KNIFE|SF|N|EQ 1 1|N|ALL|&A|DMG|0|27 i -|KNIFE|SF|N|EQ 1 1|N|ALL|&A|HP|0|0|KNIFE|OM|N|EQ 1 1|Y|ALL|&
+-1
+1
+32
+Highly accurate knife attack
+22
+Close Combat
+10
+0
+0
+8
+1
+3

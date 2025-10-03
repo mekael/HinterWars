@@ -1,0 +1,14 @@
+13
+Hard Necklace of Precision
+Necklace
+0
+Misc|\N
+Neck
+1
+7
+0
+0
+0
+Damage: -2; Accuracy: 8;  (S)
+2
+All races

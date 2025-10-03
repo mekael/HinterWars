@@ -1,0 +1,14 @@
+111
+Suutor Gloves
+Gloves
+0
+Armor|\N
+Gloves
+6
+45
+0
+0
+0
+Defence: 4; Damage: 10; Accuracy: 10 (U+)
+2
+Taikuus

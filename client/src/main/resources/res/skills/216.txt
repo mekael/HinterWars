@@ -1,0 +1,15 @@
+Rend
+1
+A|DEF|2|0 5 -|CLAW|OM|N|EQ 1 1|Y|ALL|&
+-1
+4
+8
+Decreases target's armor for a limited time.
+80
+Claws Training
+3
+0
+0
+3
+1
+1

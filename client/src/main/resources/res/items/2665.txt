@@ -1,0 +1,14 @@
+107
+Cloth Mittens
+Gloves
+0
+Armor|\N
+Gloves
+5
+34
+0
+0
+0
+Defence: 3
+2
+Taikuus

@@ -1,0 +1,14 @@
+54
+Recruit's Shoes
+Boots
+0
+Armor|\N
+Leg
+4
+4
+0
+0
+0
+Defence: 1; HP: 3 (S)
+2
+Human

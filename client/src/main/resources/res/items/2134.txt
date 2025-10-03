@@ -1,0 +1,14 @@
+11
+Cursed Ring of Mist
+Ring
+0
+Misc|\N
+Ring1
+1
+31
+0
+0
+0
+HP: -16; Energy: 10 (N+)
+2
+All races

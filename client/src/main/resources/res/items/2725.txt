@@ -1,0 +1,14 @@
+154
+Stockade Bangle
+Bangle
+0
+Misc|\N
+Bangle
+6
+48
+0
+0
+0
+Defence: +50
+2
+Brucian
